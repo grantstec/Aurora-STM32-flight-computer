@@ -5889,6 +5889,12 @@
 		(uuid "14566d9e-44ac-4d26-900a-c5822f43e904")
 	)
 	(junction
+		(at 158.75 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1afa4d8d-f7c9-4912-a791-354a7df83727")
+	)
+	(junction
 		(at 163.83 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5943,10 +5949,22 @@
 		(uuid "412c86c0-1186-4cb8-bf17-62fcdb559582")
 	)
 	(junction
+		(at 161.29 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "42602e3b-72ec-40bf-b06c-c041138064c7")
+	)
+	(junction
 		(at 171.45 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4458385e-c207-43dc-af26-008fe923366c")
+	)
+	(junction
+		(at 158.75 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "47581b3b-64b1-4491-b982-684175384488")
 	)
 	(junction
 		(at 212.09 90.17)
@@ -6013,18 +6031,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8b5e5aa0-b0f4-41d9-a5d4-d99eb1326d96")
-	)
-	(junction
-		(at 161.29 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8c9782b0-b83e-4aa0-97f2-be0055dca8e6")
-	)
-	(junction
-		(at 161.29 87.63)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8ec1a8a7-81f1-4d41-b862-881e887f8f4b")
 	)
 	(junction
 		(at 181.61 77.47)
@@ -6127,6 +6133,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ed43bb76-83eb-4fde-9a9a-2961dc863de7")
+	)
+	(junction
+		(at 161.29 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f08409e2-ba49-4309-902d-48b8853077b7")
 	)
 	(junction
 		(at 154.94 62.23)
@@ -6404,16 +6416,6 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 87.63) (xy 163.83 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2c0f7bad-1c3b-4ae0-b2b2-87742d900a28")
-	)
-	(wire
-		(pts
 			(xy 179.07 87.63) (xy 181.61 87.63)
 		)
 		(stroke
@@ -6654,7 +6656,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 83.82) (xy 161.29 87.63)
+			(xy 158.75 83.82) (xy 158.75 87.63)
 		)
 		(stroke
 			(width 0)
@@ -6684,7 +6686,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 87.63) (xy 161.29 87.63)
+			(xy 139.7 87.63) (xy 158.75 87.63)
 		)
 		(stroke
 			(width 0)
@@ -6701,6 +6703,16 @@
 			(type default)
 		)
 		(uuid "587e16b5-9e3e-4677-93a4-71c22a4f570b")
+	)
+	(wire
+		(pts
+			(xy 161.29 77.47) (xy 163.83 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59266085-f3bb-4b18-9a1e-b000de887235")
 	)
 	(wire
 		(pts
@@ -6914,7 +6926,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 77.47) (xy 161.29 77.47)
+			(xy 154.94 77.47) (xy 158.75 77.47)
 		)
 		(stroke
 			(width 0)
@@ -7004,7 +7016,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 77.47) (xy 161.29 78.74)
+			(xy 158.75 77.47) (xy 158.75 78.74)
 		)
 		(stroke
 			(width 0)
@@ -7094,6 +7106,16 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 77.47) (xy 161.29 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c23e2771-7a71-4a1f-a4ef-6139aab71aa3")
+	)
+	(wire
+		(pts
 			(xy 184.15 77.47) (xy 184.15 78.74)
 		)
 		(stroke
@@ -7121,16 +7143,6 @@
 			(type default)
 		)
 		(uuid "c522ecb7-ee94-4205-a426-1ddef3ee047b")
-	)
-	(wire
-		(pts
-			(xy 161.29 77.47) (xy 163.83 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5a99558-153a-4bd6-8bbe-7f10d4eefd41")
 	)
 	(wire
 		(pts
@@ -7174,6 +7186,16 @@
 	)
 	(wire
 		(pts
+			(xy 158.75 87.63) (xy 161.29 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd0f421f-7156-4ee3-bd77-1874b18505b1")
+	)
+	(wire
+		(pts
 			(xy 179.07 83.82) (xy 179.07 87.63)
 		)
 		(stroke
@@ -7191,6 +7213,16 @@
 			(type default)
 		)
 		(uuid "d234e8ca-46fa-44f6-b0a9-97ac9a58b2f4")
+	)
+	(wire
+		(pts
+			(xy 158.75 77.47) (xy 161.29 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d76a8e3b-0469-43d7-a94e-03ca5aabbd92")
 	)
 	(wire
 		(pts
@@ -7274,6 +7306,16 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 83.82) (xy 161.29 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8114c1d-0793-4726-b522-e9d0a9d14d93")
+	)
+	(wire
+		(pts
 			(xy 209.55 82.55) (xy 212.09 82.55)
 		)
 		(stroke
@@ -7341,6 +7383,16 @@
 			(type default)
 		)
 		(uuid "f1ead8dc-6f40-407d-ad03-3d9ff3f5692d")
+	)
+	(wire
+		(pts
+			(xy 161.29 87.63) (xy 163.83 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f281ab03-a873-49d7-a799-5f4013f0ecb2")
 	)
 	(wire
 		(pts
@@ -8087,6 +8139,75 @@
 			(project "Aurora"
 				(path "/073f53a3-faa8-4419-bff2-f325850469a4"
 					(reference "C19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 161.29 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6d493097-e206-4987-902d-be48ee0be487")
+		(property "Reference" "C26"
+			(at 161.29 76.962 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100nF"
+			(at 161.29 72.644 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.29 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 161.29 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 161.29 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "78874d08-3808-4c32-a608-cc2d2d37ea41")
+		)
+		(pin "2"
+			(uuid "6340cca7-b802-4410-8aaf-84502ccd3826")
+		)
+		(instances
+			(project ""
+				(path "/073f53a3-faa8-4419-bff2-f325850469a4"
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -9681,7 +9802,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 161.29 81.28 0)
+		(at 158.75 81.28 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9689,7 +9810,7 @@
 		(dnp no)
 		(uuid "b0e3a944-71d3-47e5-ac06-94071ddf448b")
 		(property "Reference" "C21"
-			(at 161.29 74.93 90)
+			(at 158.75 74.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9697,7 +9818,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 161.29 69.596 90)
+			(at 158.75 69.596 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9705,7 +9826,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 161.29 81.28 0)
+			(at 158.75 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9714,7 +9835,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 161.29 81.28 0)
+			(at 158.75 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9723,7 +9844,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 161.29 81.28 0)
+			(at 158.75 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
