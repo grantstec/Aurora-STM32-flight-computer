@@ -1,8 +1,9 @@
 name: KiCad Auto Merge (3-way)
 
 on:
+  workflow_dispatch: {}
   pull_request:
-    types: [opened, synchronize, reopened]   # runs whenever they push to their PR branch
+    types: [opened, synchronize, reopened]
     branches: [main]
 
 permissions:
