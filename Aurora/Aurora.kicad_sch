@@ -10121,10 +10121,6 @@
 		(uuid "47e1a3f0-aabe-4129-a90f-52f8d15098b5")
 	)
 	(no_connect
-		(at 426.72 45.72)
-		(uuid "53a2a5df-4a77-40d2-a5c9-e2bfd069e620")
-	)
-	(no_connect
 		(at 378.46 62.23)
 		(uuid "708dd572-0cdd-4049-bb3e-a189a07e7083")
 	)
