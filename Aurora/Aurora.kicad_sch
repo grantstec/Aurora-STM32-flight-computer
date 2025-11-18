@@ -105,7 +105,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "b243e184-8694-4e24-9f49-14da58e669df")
-		(property "Sheetname" "Terminal Blocks"
+		(property "Sheetname" "Bottom Board Terminal Blocks"
 			(at 17.78 18.3384 0)
 			(effects
 				(font
