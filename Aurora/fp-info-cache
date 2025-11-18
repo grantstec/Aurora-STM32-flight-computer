@@ -1,4 +1,11 @@
-26764626785135586
+26771678229793571
+ADS1158IRTCT
+QFN50P700X700X90-49N
+
+
+0
+49
+49
 ASEK_32_768KHZ_L_R_T
 XTAL_ASEK-32.768KHZ-L-R-T
 
@@ -69369,6 +69376,13 @@ solder jumper open
 0
 3
 3
+L7805
+TO255P1020X450X2000-3
+
+
+0
+3
+3
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -74787,6 +74801,13 @@ SW_PCM12SMTR
 0
 7
 7
+PPPC042LFBN_RC
+SULLINS_PPPC042LFBN-RC
+
+
+0
+8
+8
 Package_BGA
 Alliance_TFBGA-36_6x8mm_Layout6x8_P0.75mm
 Alliance TFBGA-36, NSMD, 6.0x8.0mm, 36 Ball, 6x8 Layout, 0.75mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.alliancememory.com/wp-content/uploads/pdf/AS6C1008_Mar_2023V1.2.pdf#page=13
@@ -99441,6 +99462,13 @@ IC_TPS2121RUXR
 0
 16
 16
+TSW_104_27_G_D
+SAMTEC_TSW-104-27-G-D
+
+
+0
+8
+8
 TerminalBlock
 TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm
 terminal block MaiXu MX126-5.0-02P, 2 pins, pitch 5mm, size 10.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
