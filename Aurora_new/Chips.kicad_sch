@@ -12706,7 +12706,7 @@
 		)
 		(uuid "322bbaf5-dbfa-47c2-b562-c6cb9deafc96")
 	)
-	(text "--Barometer--\nResistors/capacitors from datasheet (Fig 24)/Other designs\nSPI 4"
+	(text "--Barometer--"
 		(exclude_from_sim no)
 		(at 398.272 298.704 0)
 		(effects
@@ -12922,6 +12922,18 @@
 			)
 		)
 		(uuid "832df971-2fea-4d23-ac65-aed3a4e42e57")
+	)
+	(text "MS5611 Datasheet (Pg 14)"
+		(exclude_from_sim no)
+		(at 398.272 300.482 0)
+		(effects
+			(font
+				(size 0.889 0.889)
+				(color 255 153 0 1)
+			)
+			(href "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5611-01BA03&DocType=Data%20Sheet&DocLang=English&DocFormat=pdf&PartCntxt=MS561101BA03-50")
+		)
+		(uuid "90dbec52-6208-4426-8e95-813a5ebb129c")
 	)
 	(text "--USB Connector--\n+/- Diff pairs connected bc of usb-c symmetry\nVBUS pulled from device connected to voltage reg (5->3.3)\nCCs set up as a sink device to pull power from connection\nAll lines hooked up to ESD protection"
 		(exclude_from_sim no)
@@ -13755,6 +13767,12 @@
 		(uuid "9c933f85-7e99-4d8c-b69f-cc32f1bad087")
 	)
 	(junction
+		(at 386.08 260.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a0e5d9c6-1e69-45bf-96ab-b00f828b91e7")
+	)
+	(junction
 		(at 501.65 165.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -14487,6 +14505,16 @@
 			(type default)
 		)
 		(uuid "108fcfa2-dac3-461d-9a61-1cae9d6b3dfd")
+	)
+	(wire
+		(pts
+			(xy 386.08 260.35) (xy 389.89 260.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10eebaa6-28ad-4406-889c-0b40e181f345")
 	)
 	(wire
 		(pts
@@ -19600,7 +19628,7 @@
 	)
 	(wire
 		(pts
-			(xy 381 260.35) (xy 389.89 260.35)
+			(xy 381 260.35) (xy 386.08 260.35)
 		)
 		(stroke
 			(width 0)
@@ -20382,7 +20410,7 @@
 			)
 		)
 	)
-	(global_label "BARO_MOSI"
+	(global_label "B{slash}R_MOSI"
 		(shape input)
 		(at 381 255.27 180)
 		(fields_autoplaced yes)
@@ -20394,7 +20422,7 @@
 		)
 		(uuid "10657750-b9d1-49e6-aed6-232b3c34e047")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 367.4919 255.27 0)
+			(at 368.5805 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21746,7 +21774,7 @@
 			)
 		)
 	)
-	(global_label "BARO_MISO"
+	(global_label "B{slash}R_MISO"
 		(shape output)
 		(at 381 252.73 180)
 		(fields_autoplaced yes)
@@ -21758,7 +21786,7 @@
 		)
 		(uuid "63530c10-4419-40ea-9ed5-710fce901138")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 367.4919 252.73 0)
+			(at 368.5805 252.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22912,7 +22940,7 @@
 			)
 		)
 	)
-	(global_label "BARO_CLK"
+	(global_label "B{slash}R_CLK"
 		(shape input)
 		(at 381 257.81 180)
 		(fields_autoplaced yes)
@@ -22924,7 +22952,7 @@
 		)
 		(uuid "aabc66f3-7dae-4043-853c-27850074972f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 368.52 257.81 0)
+			(at 369.6086 257.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24580,6 +24608,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3V3"
+		(shape input)
+		(at 386.08 265.43 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f9c7c146-f35a-4498-a844-4c9e03068bf3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 386.08 271.9228 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -33054,6 +33104,73 @@
 			(project "Aurora"
 				(path "/073f53a3-faa8-4419-bff2-f325850469a4/4a7b3f92-b695-4002-a887-607ce282d6cd"
 					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small")
+		(at 386.08 262.89 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d1e20fb0-3d8a-4e0f-bb1c-15943977f083")
+		(property "Reference" "R18"
+			(at 382.27 264.414 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 382.016 262.636 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 386.08 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 386.08 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 386.08 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "94df0afd-d0ef-4182-96b0-868d38e44475")
+		)
+		(pin "1"
+			(uuid "3c9a0996-44d5-4047-a17d-a04551ece7fa")
+		)
+		(instances
+			(project "Aurora"
+				(path "/073f53a3-faa8-4419-bff2-f325850469a4/4a7b3f92-b695-4002-a887-607ce282d6cd"
+					(reference "R18")
 					(unit 1)
 				)
 			)
