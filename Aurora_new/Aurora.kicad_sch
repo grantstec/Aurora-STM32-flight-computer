@@ -196,7 +196,7 @@
 		(uuid "da57d776-b97f-44ba-917f-368faa53786f")
 	)
 	(sheet
-		(at 19.05 55.88)
+		(at 17.78 44.45)
 		(size 12.7 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -211,7 +211,7 @@
 		)
 		(uuid "18991d57-938a-4819-a35d-b2a2cddfbb7f")
 		(property "Sheetname" "Top"
-			(at 18.796 55.118 0)
+			(at 17.526 43.688 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -220,7 +220,7 @@
 			)
 		)
 		(property "Sheetfile" "top.kicad_sch"
-			(at 19.05 60.706 0)
+			(at 17.78 49.276 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -237,7 +237,7 @@
 		)
 	)
 	(sheet
-		(at 19.05 45.72)
+		(at 17.78 34.29)
 		(size 12.7 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -253,7 +253,7 @@
 		)
 		(uuid "4a7b3f92-b695-4002-a887-607ce282d6cd")
 		(property "Sheetname" "Chips"
-			(at 19.05 45.0084 0)
+			(at 17.78 33.5784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -262,7 +262,7 @@
 			)
 		)
 		(property "Sheetfile" "Chips.kicad_sch"
-			(at 19.05 50.1146 0)
+			(at 17.78 38.6846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -279,7 +279,7 @@
 		)
 	)
 	(sheet
-		(at 19.05 35.56)
+		(at 17.78 24.13)
 		(size 12.7 3.81)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -295,7 +295,7 @@
 		)
 		(uuid "b243e184-8694-4e24-9f49-14da58e669df")
 		(property "Sheetname" "Bottom Board Terminal Blocks"
-			(at 19.05 34.8484 0)
+			(at 17.78 23.4184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -304,7 +304,7 @@
 			)
 		)
 		(property "Sheetfile" "pyros.kicad_sch"
-			(at 19.05 39.9546 0)
+			(at 17.78 28.5246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
