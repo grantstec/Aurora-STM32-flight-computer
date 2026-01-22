@@ -3792,6 +3792,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1715747/260633"
+			(at 256.54 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $2.06500"
+			(at 256.54 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a87db110-1c82-432e-b65d-64736a68855c")
 		)
@@ -3868,6 +3886,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1715747/260633"
+			(at 176.53 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $2.06500"
+			(at 176.53 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "80017cd8-8a86-46ad-acab-3c1583eac6fa")
 		)
@@ -3936,6 +3972,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 63.5 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1715789/260634"
+			(at 63.5 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $4.07700"
 			(at 63.5 60.96 0)
 			(effects
 				(font
@@ -4164,6 +4218,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1729128/260615?msockid=2519f0312b83673a161fe62a2a5a66c9"
+			(at 256.54 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $1.33000"
+			(at 256.54 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "50b3a833-afeb-466d-a009-66e6c321565e")
 		)
@@ -4226,6 +4298,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 63.5 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1715789/260634"
+			(at 63.5 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $4.07700"
 			(at 63.5 179.07 0)
 			(effects
 				(font
@@ -4322,6 +4412,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1729128/260615?msockid=2519f0312b83673a161fe62a2a5a66c9"
+			(at 186.69 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $1.33000"
+			(at 186.69 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7487dd97-341e-4441-85cb-e45a770f9780")
 		)
@@ -4384,6 +4492,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 256.54 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1715747/260633"
+			(at 256.54 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $2.06500"
 			(at 256.54 39.37 0)
 			(effects
 				(font
@@ -4468,6 +4594,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1715747/260633"
+			(at 186.69 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $2.06500"
+			(at 186.69 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d6a65f19-35c7-4fd2-be77-9cf893e24b7b")
 		)
@@ -4536,6 +4680,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 63.5 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1715789/260634"
+			(at 63.5 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $4.07700"
 			(at 63.5 115.57 0)
 			(effects
 				(font
@@ -4632,6 +4794,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1729128/260615?msockid=2519f0312b83673a161fe62a2a5a66c9"
+			(at 186.69 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $1.33000"
+			(at 186.69 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c4cd7bcd-0f10-451b-9a34-ecc197717d1c")
 		)
@@ -4693,6 +4873,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 63.5 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1715789/260634"
+			(at 63.5 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $4.07700"
 			(at 63.5 151.13 0)
 			(effects
 				(font
@@ -4789,6 +4987,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1729128/260615?msockid=2519f0312b83673a161fe62a2a5a66c9"
+			(at 256.54 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $1.33000"
+			(at 256.54 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fbcc0ca0-ff02-4355-9d88-ae54ca1e4ca7")
 		)
@@ -4851,6 +5067,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 186.69 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1715747/260633"
+			(at 186.69 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $2.06500"
 			(at 186.69 90.17 0)
 			(effects
 				(font
@@ -4935,6 +5169,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1715747/260633"
+			(at 176.53 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $2.06500"
+			(at 176.53 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4324dad1-5fc5-48a9-9fef-6245bddf5356")
 		)
@@ -5003,6 +5255,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 63.5 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1715789/260634"
+			(at 63.5 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $4.07700"
 			(at 63.5 86.36 0)
 			(effects
 				(font
@@ -5099,6 +5369,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1715789/260634"
+			(at 63.5 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $4.07700"
+			(at 63.5 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "2eab0db4-9e46-46fb-b183-3b2469d2c221")
 		)
@@ -5187,6 +5475,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1729128/260615?msockid=2519f0312b83673a161fe62a2a5a66c9"
+			(at 256.54 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $1.33000"
+			(at 256.54 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d3e3db3f-f598-445f-82b4-6419b417427c")
 		)
@@ -5257,6 +5563,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1729128/260615?msockid=2519f0312b83673a161fe62a2a5a66c9"
+			(at 186.69 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $1.33000"
+			(at 186.69 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ab525a8b-ca6f-4018-930b-2a0bec7f66f0")
 		)
@@ -5319,6 +5643,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 218.44 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1715747/260633"
+			(at 218.44 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $2.06500"
 			(at 218.44 139.7 0)
 			(effects
 				(font

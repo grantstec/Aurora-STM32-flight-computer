@@ -2196,7 +2196,7 @@
 			)
 		)
 	)
-	(global_label "3V3"
+	(global_label "3V3_SENS"
 		(shape output)
 		(at 227.33 85.09 0)
 		(fields_autoplaced yes)
@@ -2208,7 +2208,7 @@
 		)
 		(uuid "4f7ae0d0-7477-4376-880e-a0081f011505")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 233.8228 85.09 0)
+			(at 239.6889 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2360,6 +2360,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A475KAQNNNE/3886902"
+			(at 151.13 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.34380"
+			(at 151.13 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "42d4bef6-5edb-4b9f-a599-bc9aca5dc71b")
 		)
@@ -2421,6 +2439,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 45.72 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/nextgen-components/0805W106K250CC/18676983"
+			(at 45.72 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.17380"
 			(at 45.72 146.05 0)
 			(effects
 				(font
@@ -2498,6 +2534,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A475KAQNNNE/3886902"
+			(at 218.44 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.34380"
+			(at 218.44 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "503f42f1-22c7-414d-ae76-568887f21ff0")
 		)
@@ -2567,6 +2621,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A475KAQNNNE/3886902"
+			(at 218.44 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.34380"
+			(at 218.44 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cd96b0b8-1501-4092-b2b0-f9ba4a792391")
 		)
@@ -2628,6 +2700,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 218.44 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A475KAQNNNE/3886902"
+			(at 218.44 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.34380"
 			(at 218.44 35.56 0)
 			(effects
 				(font
@@ -2769,6 +2859,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/texas-instruments/TPS7A4701RGWR/4579594?msockid=2519f0312b83673a161fe62a2a5a66c9"
+			(at 69.85 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $5.30000"
+			(at 69.85 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "21"
 			(uuid "d6721389-6d33-418c-ba57-3e5e821d7091")
 		)
@@ -2883,6 +2991,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KBFNNNE/3886687"
+			(at 83.82 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.08000"
+			(at 83.82 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c1177de2-dc7a-4cbc-8e72-ba258ad1aeba")
 		)
@@ -2952,6 +3078,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/nextgen-components/0805W476M6R3CC/22601961?s=N4IgjCBcoEwAwBYCcVQGMoDMCGAbAzgKYA0IA9lANogIDsABAK0BiIAuqQA4AuUIAqgDsAltwDymALKFs%2BAK4AnQiAC%2BpALQJUIDJBwES5KiCRgAbHFrsVakDGNwAHHACs9NNk7Y0osgvzWQA"
+			(at 92.71 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "$0.44380"
+			(at 92.71 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7c797f32-876e-4870-a446-9df1f676d6b2")
 		)
@@ -3013,6 +3157,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 45.72 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/nextgen-components/0805W106K250CC/18676983"
+			(at 45.72 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.17380"
 			(at 45.72 222.25 0)
 			(effects
 				(font
@@ -3156,6 +3318,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A475KAQNNNE/3886902"
+			(at 151.13 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.34380"
+			(at 151.13 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "63c99213-0d8c-4cf6-aec4-056ac0d37273")
 		)
@@ -3218,6 +3398,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 152.4 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/microchip-technology/MCP1826ST-3302E-DB/1635505?s=N4IgTCBcDaILIGEAKBGAHGAbAZQCoFoBmQgBjAFEB6AEQCEQBdAXyA"
+			(at 152.4 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.91000"
 			(at 152.4 85.09 0)
 			(effects
 				(font
@@ -3354,6 +3552,24 @@
 			)
 		)
 		(property "Description" "1A, Low-Noise Low-Dropout Voltage Regulator, 3-35V Input, Adjustable 1.4-34V Output, VQFN-20"
+			(at 69.85 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/texas-instruments/TPS7A4701RGWR/4579594?msockid=2519f0312b83673a161fe62a2a5a66c9"
+			(at 69.85 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $5.30000"
 			(at 69.85 46.99 0)
 			(effects
 				(font
@@ -3740,6 +3956,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A475KAQNNNE/3886902"
+			(at 151.13 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.34380"
+			(at 151.13 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "281a6f2c-e817-45fe-8203-836b636e4774")
 		)
@@ -3801,6 +4035,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 92.71 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/nextgen-components/0805W476M6R3CC/22601961?s=N4IgjCBcoEwAwBYCcVQGMoDMCGAbAzgKYA0IA9lANogIDsABAK0BiIAuqQA4AuUIAqgDsAltwDymALKFs%2BAK4AnQiAC%2BpALQJUIDJBwES5KiCRgAbHFrsVakDGNwAHHACs9NNk7Y0osgvzWQA"
+			(at 92.71 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "$0.44380"
 			(at 92.71 146.05 0)
 			(effects
 				(font
@@ -4008,6 +4260,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/texas-instruments/TPS7A4701RGWR/4579594?msockid=2519f0312b83673a161fe62a2a5a66c9"
+			(at 69.85 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $5.30000"
+			(at 69.85 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "21"
 			(uuid "865eb984-69a9-4047-ab83-12d0b04cca50")
 		)
@@ -4189,6 +4459,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/microchip-technology/MCP1826ST-3302E-DB/1635505?s=N4IgTCBcDaILIGEAKBGAHGAbAZQCoFoBmQgBjAFEB6AEQCEQBdAXyA"
+			(at 152.4 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.91000"
+			(at 152.4 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "04a9634e-46df-489c-9e2e-8fd7d6d6a128")
 		)
@@ -4253,6 +4541,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 83.82 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KBFNNNE/3886687"
+			(at 83.82 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.08000"
 			(at 83.82 172.72 0)
 			(effects
 				(font
@@ -4460,6 +4766,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/texas-instruments/TPS7A4701RGWR/4579594?msockid=2519f0312b83673a161fe62a2a5a66c9"
+			(at 69.85 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $5.30000"
+			(at 69.85 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "21"
 			(uuid "41565bec-47eb-4b8d-aaf1-24550066ee2a")
 		)
@@ -4567,6 +4891,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 152.4 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/microchip-technology/MCP1826ST-3302E-DB/1635505?s=N4IgTCBcDaILIGEAKBGAHGAbAZQCoFoBmQgBjAFEB6AEQCEQBdAXyA"
+			(at 152.4 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.91000"
 			(at 152.4 31.75 0)
 			(effects
 				(font

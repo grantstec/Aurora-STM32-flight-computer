@@ -6930,7 +6930,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1935174:PHOENIX_1935174"
 			(at 39.37 124.46 0)
 			(effects
 				(font
@@ -6949,6 +6949,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 39.37 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1935174/568615"
+			(at 39.37 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.74800"
 			(at 39.37 124.46 0)
 			(effects
 				(font
@@ -7123,7 +7141,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "GREEN LED"
 			(at 168.91 59.182 0)
 			(effects
 				(font
@@ -7159,6 +7177,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 168.91 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/ams-osram-usa-inc/LG-R971-KN-1-0-20-R18/1227925"
+			(at 168.91 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.10200"
 			(at 168.91 62.23 0)
 			(effects
 				(font
@@ -7295,6 +7331,24 @@
 			)
 		)
 		(property "Description" "Ultra-Small, Low-Power, I2C-Compatible, 860-SPS, 16-Bit ADCs With Internal Reference, Oscillator, and Programmable Comparator, VSSOP-10"
+			(at 369.57 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/texas-instruments/ADS1115IDGSR/2231567?msockid=2519f0312b83673a161fe62a2a5a66c9"
+			(at 369.57 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $5.12000"
 			(at 369.57 39.37 0)
 			(effects
 				(font
@@ -7527,6 +7581,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/murata-electronics/GRM219R71H334KA88D/702591"
+			(at 153.67 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.36000"
+			(at 153.67 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f280bac8-2e03-4038-bed4-ab5c3f39d50f")
 		)
@@ -7623,6 +7695,24 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/samtec-inc/TSW-104-27-G-D/7864984"
+			(at 102.87 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $1.81000"
+			(at 102.87 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -7780,6 +7870,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/texas-instruments/ADS1115IDGSR/2231567?msockid=2519f0312b83673a161fe62a2a5a66c9"
+			(at 308.61 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $5.12000"
+			(at 308.61 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "7f762d4e-68f6-43e2-9c43-fee99f490926")
 		)
@@ -7874,6 +7982,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1729128/260615?msockid=2519f0312b83673a161fe62a2a5a66c9"
+			(at 374.65 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $1.33000"
+			(at 374.65 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6e8b79d8-2492-41ab-b805-4f9feae0a3b5")
 		)
@@ -7916,7 +8042,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1935174:PHOENIX_1935174"
 			(at 39.37 186.69 0)
 			(effects
 				(font
@@ -7935,6 +8061,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 39.37 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1935174/568615"
+			(at 39.37 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.74800"
 			(at 39.37 186.69 0)
 			(effects
 				(font
@@ -7988,7 +8132,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1935174:PHOENIX_1935174"
 			(at 39.37 154.94 0)
 			(effects
 				(font
@@ -8007,6 +8151,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 39.37 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1935174/568615"
+			(at 39.37 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.74800"
 			(at 39.37 154.94 0)
 			(effects
 				(font
@@ -8088,6 +8250,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/stmicroelectronics/L7805CV/585964"
+			(at 163.83 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "$0.50000"
+			(at 163.83 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5aef937e-67f6-49e8-9751-63d0ec3c4376")
 		)
@@ -8152,6 +8332,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 341.63 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1715789/260634"
+			(at 341.63 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $4.07700"
 			(at 341.63 120.65 0)
 			(effects
 				(font
@@ -8245,6 +8443,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/bourns-inc/CR0805-FX-1002ELF/3593209"
+			(at 160.02 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.00442"
+			(at 160.02 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fa6989f3-9161-409b-8547-ce4718bc3846")
 		)
@@ -8287,7 +8503,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1935174:PHOENIX_1935174"
 			(at 39.37 93.98 0)
 			(effects
 				(font
@@ -8306,6 +8522,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 39.37 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1935174/568615"
+			(at 39.37 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.74800"
 			(at 39.37 93.98 0)
 			(effects
 				(font
@@ -8416,6 +8650,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/samtec-inc/TSW-104-27-G-D/7864984"
+			(at 74.93 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $1.81000"
+			(at 74.93 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "01"
 			(uuid "14148851-7aca-4219-b4a7-8f632ef9a551")
 		)
@@ -8476,7 +8728,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1935174:PHOENIX_1935174"
 			(at 39.37 171.45 0)
 			(effects
 				(font
@@ -8495,6 +8747,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 39.37 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1935174/568615"
+			(at 39.37 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.74800"
 			(at 39.37 171.45 0)
 			(effects
 				(font
@@ -8687,6 +8957,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.tme.com/us/en-us/details/xt60-m/dc-power-connectors/amass/"
+			(at 251.46 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "$0.602"
+			(at 251.46 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "P"
 			(uuid "63f37977-5cae-4bdf-8d13-2f71528c206b")
 		)
@@ -8833,6 +9121,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/texas-instruments/ADS1115IDGSR/2231567?msockid=2519f0312b83673a161fe62a2a5a66c9"
+			(at 340.36 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $5.12000"
+			(at 340.36 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "9"
 			(uuid "f054f8db-2b7f-4eb4-a7e1-d616f2bcf85e")
 		)
@@ -8918,6 +9224,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 313.69 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1715789/260634"
+			(at 313.69 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $4.07700"
 			(at 313.69 121.92 0)
 			(effects
 				(font
@@ -9052,7 +9376,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1935174:PHOENIX_1935174"
 			(at 39.37 109.22 0)
 			(effects
 				(font
@@ -9071,6 +9395,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 39.37 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1935174/568615"
+			(at 39.37 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.74800"
 			(at 39.37 109.22 0)
 			(effects
 				(font
@@ -9263,6 +9605,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.tme.com/us/en-us/details/xt60-m/dc-power-connectors/amass/"
+			(at 251.46 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" "$0.602"
+			(at 251.46 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "P"
 			(uuid "0c2a59d7-2b2c-4b8a-8aac-a329949900b1")
 		)
@@ -9389,6 +9749,24 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 198.12 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/bourns-inc/CR0805-FX-2002ELF/3740952"
+			(at 198.12 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.00544"
+			(at 198.12 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9561,6 +9939,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/samtec-inc/TSW-104-27-G-D/7864984"
+			(at 45.72 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $1.81000"
+			(at 45.72 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "01"
 			(uuid "70a730c9-536e-4ecc-936e-b834fa6da598")
 		)
@@ -9621,7 +10017,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1935174:PHOENIX_1935174"
 			(at 39.37 139.7 0)
 			(effects
 				(font
@@ -9640,6 +10036,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 39.37 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1935174/568615"
+			(at 39.37 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.74800"
 			(at 39.37 139.7 0)
 			(effects
 				(font
@@ -9683,7 +10097,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "BLUE LED"
 			(at 207.01 59.182 0)
 			(effects
 				(font
@@ -9719,6 +10133,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 207.01 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150080BS75000/4489912"
+			(at 207.01 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.17600"
 			(at 207.01 62.23 0)
 			(effects
 				(font
@@ -9797,6 +10229,24 @@
 				(hide yes)
 			)
 		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1715747/260633"
+			(at 374.65 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $2.06500"
+			(at 374.65 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "95e44a71-264d-4b4e-bc0a-26fe5f80db5f")
 		)
@@ -9864,6 +10314,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 173.99 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/kyocera-avx/KGM15BR71H104KT/1600046"
+			(at 173.99 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $0.00700"
 			(at 173.99 38.1 0)
 			(effects
 				(font
