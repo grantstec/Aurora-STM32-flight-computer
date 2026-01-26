@@ -12480,7 +12480,7 @@
 	)
 	(text "Female Header Pins leading to top board"
 		(exclude_from_sim no)
-		(at 397.51 350.774 0)
+		(at 397.51 339.344 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -17631,7 +17631,7 @@
 	)
 	(wire
 		(pts
-			(xy 384.81 369.57) (xy 389.89 369.57)
+			(xy 384.81 358.14) (xy 389.89 358.14)
 		)
 		(stroke
 			(width 0)
@@ -17741,7 +17741,7 @@
 	)
 	(wire
 		(pts
-			(xy 384.81 361.95) (xy 392.43 361.95)
+			(xy 384.81 350.52) (xy 392.43 350.52)
 		)
 		(stroke
 			(width 0)
@@ -18871,7 +18871,7 @@
 	)
 	(wire
 		(pts
-			(xy 407.67 361.95) (xy 414.02 361.95)
+			(xy 407.67 350.52) (xy 414.02 350.52)
 		)
 		(stroke
 			(width 0)
@@ -19587,28 +19587,6 @@
 			)
 		)
 	)
-	(global_label "ADC2_SDA"
-		(shape input)
-		(at 359.41 367.03 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "0385a165-74bf-4418-bc22-00c33c8fddfe")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 347.051 367.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "VDDLDO"
 		(shape input)
 		(at 151.13 104.14 90)
@@ -19633,7 +19611,7 @@
 	)
 	(global_label "SPKG"
 		(shape output)
-		(at 384.81 388.62 0)
+		(at 384.81 377.19 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -19643,7 +19621,29 @@
 		)
 		(uuid "05eb94af-1571-4787-a072-3cab616cf85e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 392.8147 388.62 0)
+			(at 392.8147 377.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PYRO2_CONT"
+		(shape input)
+		(at 384.81 372.11 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "05fa4a51-3fc9-4b3c-b50b-5a87e08e8f27")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 399.83 372.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19721,7 +19721,7 @@
 	)
 	(global_label "SERVO4"
 		(shape input)
-		(at 414.02 367.03 180)
+		(at 414.02 355.6 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -19731,7 +19731,7 @@
 		)
 		(uuid "09c3a7e2-fe74-48f2-801d-5fe36287720f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 403.7777 367.03 0)
+			(at 403.7777 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20089,6 +20089,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PYRO2_CONT"
+		(shape output)
+		(at 78.74 245.11 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "21adbb49-c73a-49b5-b58c-6e2036b5527d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 63.72 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -20489,6 +20511,28 @@
 			)
 		)
 	)
+	(global_label "TEMP_SDA"
+		(shape input)
+		(at 68.58 214.63 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3555780f-d9e2-4533-b198-4468f81d2809")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 56.2211 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GPIO_B7"
 		(shape input)
 		(at 245.11 82.55 180)
@@ -20579,7 +20623,7 @@
 	)
 	(global_label "7.4V"
 		(shape output)
-		(at 407.67 361.95 180)
+		(at 407.67 350.52 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -20589,7 +20633,7 @@
 		)
 		(uuid "405ac498-2d9b-4a04-b6b5-954562701aca")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 400.5724 361.95 0)
+			(at 400.5724 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20612,28 +20656,6 @@
 		(uuid "413443c1-873d-462f-9a92-b8b0556858d3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 55.7372 302.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "HDR_GPIO1"
-		(shape output)
-		(at 359.41 383.54 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4358bc58-dfd6-4805-beb6-9ea63bbf22ec")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 345.9019 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20755,7 +20777,7 @@
 	)
 	(global_label "SERVO7"
 		(shape input)
-		(at 439.42 369.57 0)
+		(at 439.42 358.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -20765,7 +20787,7 @@
 		)
 		(uuid "4ad8e879-667f-4303-bca9-f79b58c033cc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 449.6623 369.57 0)
+			(at 449.6623 358.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20797,6 +20819,28 @@
 			)
 		)
 	)
+	(global_label "TEMP_SCL"
+		(shape input)
+		(at 384.81 355.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4c475df4-7309-44c8-b44c-7bb177f4c25e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 397.1084 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "3V3"
 		(shape input)
 		(at 365.76 88.9 180)
@@ -20821,7 +20865,7 @@
 	)
 	(global_label "SERVO1"
 		(shape input)
-		(at 439.42 361.95 0)
+		(at 439.42 350.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -20831,7 +20875,7 @@
 		)
 		(uuid "4d95002d-4d5c-4fa4-8f06-bb65e731a15e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 449.6623 361.95 0)
+			(at 449.6623 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20931,7 +20975,7 @@
 	)
 	(global_label "HDR_GPIO4"
 		(shape output)
-		(at 384.81 386.08 0)
+		(at 384.81 374.65 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -20941,7 +20985,7 @@
 		)
 		(uuid "5323eb0b-a6de-4368-8de4-561ddd0c584b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 398.3181 386.08 0)
+			(at 398.3181 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21041,7 +21085,7 @@
 	)
 	(global_label "PYRO2_GPIO"
 		(shape input)
-		(at 359.41 369.57 180)
+		(at 359.41 358.14 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -21051,7 +21095,7 @@
 		)
 		(uuid "58aacf06-f629-42b8-825b-f4523c700f0b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 344.8133 369.57 0)
+			(at 344.8133 358.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21215,28 +21259,6 @@
 			)
 		)
 	)
-	(global_label "HDR_GPIO1"
-		(shape output)
-		(at 78.74 242.57 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "65e7115e-f251-4a5c-ae25-da6555de701b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 65.2319 242.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "BNO_MISO"
 		(shape input)
 		(at 184.15 207.01 0)
@@ -21327,7 +21349,7 @@
 	)
 	(global_label "SERVO5"
 		(shape input)
-		(at 439.42 367.03 0)
+		(at 439.42 355.6 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -21337,12 +21359,34 @@
 		)
 		(uuid "6e0d318b-7d2a-4e17-b80d-981fbcf9427d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 449.6623 367.03 0)
+			(at 449.6623 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PYRO1_CONT"
+		(shape output)
+		(at 78.74 242.57 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6e6d491e-04c2-4864-b9c6-8b1969f97c1d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 63.72 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -21855,7 +21899,7 @@
 	)
 	(global_label "HDR_GPIO3"
 		(shape output)
-		(at 359.41 386.08 180)
+		(at 359.41 374.65 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -21865,7 +21909,7 @@
 		)
 		(uuid "8faff4a2-2b07-48f7-8a58-20946722e805")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 345.9019 386.08 0)
+			(at 345.9019 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21919,31 +21963,9 @@
 			)
 		)
 	)
-	(global_label "HDR_GPIO2"
-		(shape output)
-		(at 384.81 383.54 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9440eb7b-d846-4607-8969-21ca1587fde7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 398.3181 383.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "PYRO1_GPIO"
 		(shape input)
-		(at 359.41 361.95 180)
+		(at 359.41 350.52 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -21953,7 +21975,7 @@
 		)
 		(uuid "94acae9b-655e-4b1d-a2cd-7e3819f15c40")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 344.8133 361.95 0)
+			(at 344.8133 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21998,28 +22020,6 @@
 		(uuid "9540d956-37a3-420a-9721-2299cb1fcb51")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 483.87 369.5313 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "ADC2_SCL"
-		(shape input)
-		(at 68.58 212.09 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "9794a573-ea0c-4ac5-a001-8ca821b85ca2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 56.2815 212.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22091,6 +22091,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TEMP_SCL"
+		(shape input)
+		(at 68.58 212.09 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9d970c4e-ff48-43cb-84fa-6daa17864c95")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 56.2816 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -22361,7 +22383,7 @@
 	)
 	(global_label "SERVO6"
 		(shape input)
-		(at 414.02 369.57 180)
+		(at 414.02 358.14 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -22371,7 +22393,7 @@
 		)
 		(uuid "a6ec9817-95de-4429-b821-865133461ee4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 403.7777 369.57 0)
+			(at 403.7777 358.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22735,7 +22757,7 @@
 	)
 	(global_label "ADC1_SDA"
 		(shape input)
-		(at 359.41 364.49 180)
+		(at 359.41 353.06 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -22745,7 +22767,7 @@
 		)
 		(uuid "b69b9ba6-560c-46b9-9382-50e9de569bad")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 347.051 364.49 0)
+			(at 347.051 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22823,7 +22845,7 @@
 	)
 	(global_label "SERVO3"
 		(shape input)
-		(at 439.42 364.49 0)
+		(at 439.42 353.06 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -22833,7 +22855,7 @@
 		)
 		(uuid "bb8c26b2-58c8-4d33-9e7a-91d3d7393b4c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 449.6623 364.49 0)
+			(at 449.6623 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23010,50 +23032,6 @@
 		(uuid "c3e3c205-e023-48e6-ab88-4d4b0758681f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 65.8972 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "ADC2_SDA"
-		(shape input)
-		(at 68.58 214.63 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c416d69c-0320-4680-99d5-f5adf9d75cbd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 56.221 214.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "HDR_GPIO2"
-		(shape output)
-		(at 78.74 245.11 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c421891d-a48d-439a-957d-c85b214fa485")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 65.2319 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23285,7 +23263,7 @@
 	)
 	(global_label "SERVO2"
 		(shape input)
-		(at 414.02 364.49 180)
+		(at 414.02 353.06 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23295,7 +23273,7 @@
 		)
 		(uuid "cc6c8ed5-36be-4531-8204-eb89a5c89342")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 403.7777 364.49 0)
+			(at 403.7777 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23461,7 +23439,7 @@
 	)
 	(global_label "ADC1_SCL"
 		(shape input)
-		(at 384.81 364.49 0)
+		(at 384.81 353.06 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23471,7 +23449,7 @@
 		)
 		(uuid "d68d5f56-23f6-4e70-aabb-fdb7beded63d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 397.1085 364.49 0)
+			(at 397.1085 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23527,7 +23505,7 @@
 	)
 	(global_label "HDR_GPIO5"
 		(shape output)
-		(at 359.41 388.62 180)
+		(at 359.41 377.19 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23537,7 +23515,7 @@
 		)
 		(uuid "d9a3a88c-f1ee-4a22-827d-3c28df7dcf62")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 345.9019 388.62 0)
+			(at 345.9019 377.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23615,7 +23593,7 @@
 	)
 	(global_label "SLN_1"
 		(shape output)
-		(at 359.41 391.16 180)
+		(at 359.41 379.73 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23625,7 +23603,7 @@
 		)
 		(uuid "e0dbba19-0297-42d0-8981-d456191540c7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 350.6796 391.16 0)
+			(at 350.6796 379.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23747,7 +23725,7 @@
 	)
 	(global_label "SLN_2"
 		(shape output)
-		(at 384.81 391.16 0)
+		(at 384.81 379.73 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23757,7 +23735,7 @@
 		)
 		(uuid "e566a98f-c13d-4ff9-b343-da553310a3c0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 393.5404 391.16 0)
+			(at 393.5404 379.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23945,7 +23923,7 @@
 	)
 	(global_label "5V"
 		(shape output)
-		(at 392.43 361.95 0)
+		(at 392.43 350.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -23955,7 +23933,7 @@
 		)
 		(uuid "ee54f57f-4d31-4d60-aa75-796dfe7f179e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 397.7133 361.95 0)
+			(at 397.7133 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23983,6 +23961,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PYRO1_CONT"
+		(shape input)
+		(at 359.41 372.11 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f1d34530-d733-4ce5-bc86-a08e7f8103e0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 344.39 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -24049,6 +24049,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "TEMP_SDA"
+		(shape input)
+		(at 359.41 355.6 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f781b29f-07e2-4320-8faa-785ae1902b92")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 347.0511 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -24159,28 +24181,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "ADC2_SCL"
-		(shape input)
-		(at 384.81 367.03 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "fa43c33f-b24c-4fe8-9b5e-5128f046ee9c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 397.1085 367.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -24997,7 +24997,7 @@
 	)
 	(symbol
 		(lib_id "PPPC042LFBN-RC:PPPC042LFBN-RC")
-		(at 372.11 386.08 0)
+		(at 372.11 374.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25006,7 +25006,7 @@
 		(fields_autoplaced yes)
 		(uuid "1658aece-cbd9-490f-8d62-9a61d194562b")
 		(property "Reference" "J36"
-			(at 372.11 375.92 0)
+			(at 372.11 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25014,7 +25014,7 @@
 			)
 		)
 		(property "Value" "PPPC042LFBN-RC"
-			(at 372.11 378.46 0)
+			(at 372.11 367.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25022,7 +25022,7 @@
 			)
 		)
 		(property "Footprint" "PPPC042LFBN_RC:SULLINS_PPPC042LFBN-RC"
-			(at 372.11 386.08 0)
+			(at 372.11 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25032,7 +25032,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 372.11 386.08 0)
+			(at 372.11 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25041,7 +25041,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 372.11 386.08 0)
+			(at 372.11 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25050,7 +25050,7 @@
 			)
 		)
 		(property "PARTREV" "L"
-			(at 372.11 386.08 0)
+			(at 372.11 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25060,7 +25060,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Sullins Connectors Solutions"
-			(at 372.11 386.08 0)
+			(at 372.11 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25070,7 +25070,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "PPPC042LFBN-RC"
-			(at 372.11 386.08 0)
+			(at 372.11 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25080,7 +25080,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "8.5mm"
-			(at 372.11 386.08 0)
+			(at 372.11 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25090,7 +25090,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 372.11 386.08 0)
+			(at 372.11 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25100,7 +25100,7 @@
 			)
 		)
 		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPPC042LFBN-RC/810244?s=N4IgTCBcDaIAoIMIAYAsYAyAxAQgOQFoAlREAXQF8g"
-			(at 372.11 386.08 0)
+			(at 372.11 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25109,7 +25109,7 @@
 			)
 		)
 		(property "Price" " $0.59000 "
-			(at 372.11 386.08 0)
+			(at 372.11 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26804,7 +26804,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 552.45 162.56 0)
 			(effects
 				(font
@@ -27319,7 +27319,7 @@
 	)
 	(symbol
 		(lib_id "PPPC042LFBN-RC:PPPC042LFBN-RC")
-		(at 372.11 364.49 0)
+		(at 372.11 353.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27328,7 +27328,7 @@
 		(fields_autoplaced yes)
 		(uuid "4eb2becd-102e-4468-a96d-563b3d13328f")
 		(property "Reference" "J3"
-			(at 372.11 354.33 0)
+			(at 372.11 342.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27336,7 +27336,7 @@
 			)
 		)
 		(property "Value" "PPPC042LFBN-RC"
-			(at 372.11 356.87 0)
+			(at 372.11 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27344,7 +27344,7 @@
 			)
 		)
 		(property "Footprint" "PPPC042LFBN_RC:SULLINS_PPPC042LFBN-RC"
-			(at 372.11 364.49 0)
+			(at 372.11 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27354,7 +27354,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 372.11 364.49 0)
+			(at 372.11 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27363,7 +27363,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 372.11 364.49 0)
+			(at 372.11 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27372,7 +27372,7 @@
 			)
 		)
 		(property "PARTREV" "L"
-			(at 372.11 364.49 0)
+			(at 372.11 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27382,7 +27382,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Sullins Connectors Solutions"
-			(at 372.11 364.49 0)
+			(at 372.11 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27392,7 +27392,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "PPPC042LFBN-RC"
-			(at 372.11 364.49 0)
+			(at 372.11 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27402,7 +27402,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "8.5mm"
-			(at 372.11 364.49 0)
+			(at 372.11 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27412,7 +27412,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 372.11 364.49 0)
+			(at 372.11 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27422,7 +27422,7 @@
 			)
 		)
 		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPPC042LFBN-RC/810244?s=N4IgTCBcDaIAoIMIAYAsYAyAxAQgOQFoAlREAXQF8g"
-			(at 372.11 364.49 0)
+			(at 372.11 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27431,7 +27431,7 @@
 			)
 		)
 		(property "Price" " $0.59000 "
-			(at 372.11 364.49 0)
+			(at 372.11 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31626,7 +31626,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 389.89 369.57 0)
+		(at 389.89 358.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31635,7 +31635,7 @@
 		(fields_autoplaced yes)
 		(uuid "9fbc6a34-682c-4bd8-8c2b-7834ba3df829")
 		(property "Reference" "#PWR031"
-			(at 389.89 375.92 0)
+			(at 389.89 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31644,7 +31644,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 389.89 374.65 0)
+			(at 389.89 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31652,7 +31652,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 389.89 369.57 0)
+			(at 389.89 358.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31661,7 +31661,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 389.89 369.57 0)
+			(at 389.89 358.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31670,7 +31670,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 389.89 369.57 0)
+			(at 389.89 358.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35525,7 +35525,7 @@
 				(hide yes)
 			)
 		)
-		(property "PURCHASE-URL" "https://www.mouser.com/ProductDetail/Digi/XB9X-DMUS-001?qs=G2iGZvANJXwwl1jP5enFZA%3D%3D&utm_source=eciaauthorized&utm_medium=aggregator&utm_campaign=XB9X-DMUS-001&utm_term=XB9X-DMUS-001&utm_content=Digi-International"
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/digi/XB9X-DMUS-001/5972742?_gl=1*1pai01b*_up*MQ..*_gs*MQ..&gclid=Cj0KCQiA-NHLBhDSARIsAIhe9X1VoscSwhXeACXN1s2okHvgPUkq6uey90Aiu8hlh2fMvl24_6f9MJQaAthaEALw_wcB&gclsrc=aw.ds"
 			(at 274.32 161.29 0)
 			(effects
 				(font
@@ -35641,7 +35641,7 @@
 	)
 	(symbol
 		(lib_id "PPPC042LFBN-RC:PPPC042LFBN-RC")
-		(at 426.72 364.49 0)
+		(at 426.72 353.06 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35650,7 +35650,7 @@
 		(fields_autoplaced yes)
 		(uuid "ff022731-0ac4-4fcf-b46d-f4304315b49d")
 		(property "Reference" "J16"
-			(at 426.72 354.33 0)
+			(at 426.72 342.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35658,7 +35658,7 @@
 			)
 		)
 		(property "Value" "PPPC042LFBN-RC"
-			(at 426.72 356.87 0)
+			(at 426.72 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35666,7 +35666,7 @@
 			)
 		)
 		(property "Footprint" "PPPC042LFBN_RC:SULLINS_PPPC042LFBN-RC"
-			(at 426.72 364.49 0)
+			(at 426.72 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35676,7 +35676,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 426.72 364.49 0)
+			(at 426.72 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35685,7 +35685,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 426.72 364.49 0)
+			(at 426.72 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35694,7 +35694,7 @@
 			)
 		)
 		(property "PARTREV" "L"
-			(at 426.72 364.49 0)
+			(at 426.72 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35704,7 +35704,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Sullins Connectors Solutions"
-			(at 426.72 364.49 0)
+			(at 426.72 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35714,7 +35714,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "PPPC042LFBN-RC"
-			(at 426.72 364.49 0)
+			(at 426.72 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35724,7 +35724,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "8.5mm"
-			(at 426.72 364.49 0)
+			(at 426.72 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35734,7 +35734,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 426.72 364.49 0)
+			(at 426.72 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35744,7 +35744,7 @@
 			)
 		)
 		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/sullins-connector-solutions/PPPC042LFBN-RC/810244?s=N4IgTCBcDaIAoIMIAYAsYAyAxAQgOQFoAlREAXQF8g"
-			(at 426.72 364.49 0)
+			(at 426.72 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35753,7 +35753,7 @@
 			)
 		)
 		(property "Price" " $0.59000 "
-			(at 426.72 364.49 0)
+			(at 426.72 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
