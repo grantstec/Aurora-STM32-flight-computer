@@ -1891,16 +1891,6 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 77.47) (xy 237.49 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5443f783-4fba-4cf1-a0df-453fd99f4f8a")
-	)
-	(wire
-		(pts
 			(xy 33.02 33.02) (xy 58.42 33.02)
 		)
 		(stroke
@@ -2491,16 +2481,6 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 74.93) (xy 237.49 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c3aef1e5-8c5b-4371-a67b-a86a5623b390")
-	)
-	(wire
-		(pts
 			(xy 49.53 173.99) (xy 49.53 176.53)
 		)
 		(stroke
@@ -2936,28 +2916,6 @@
 		(uuid "1a6fb1b9-9a23-4059-b382-058d6a9a407c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 22.2938 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "UART5_RX"
-		(shape input)
-		(at 237.49 74.93 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "213a1324-82e2-4819-b288-eed79fac03d5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 225.1915 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3420,28 +3378,6 @@
 		(uuid "a310bc2b-6d66-41b9-a40b-3c7ff5b8b877")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 22.1124 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "UART5_TX"
-		(shape input)
-		(at 237.49 77.47 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "ab75d613-7cd6-4861-bc7d-15a5e52caeeb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 225.4939 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4158,94 +4094,6 @@
 			(project "Aurora"
 				(path "/073f53a3-faa8-4419-bff2-f325850469a4/b243e184-8694-4e24-9f49-14da58e669df"
 					(reference "#PWR032")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 256.54 74.93 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3febda5e-9fca-4d75-bacd-2f473de497b2")
-		(property "Reference" "J8"
-			(at 259.08 74.9299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x02"
-			(at 259.08 77.4699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "footprints5:CONN_1729128_PXC"
-			(at 256.54 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 256.54 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 256.54 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1729128/260615?msockid=2519f0312b83673a161fe62a2a5a66c9"
-			(at 256.54 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" " $1.33000"
-			(at 256.54 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "50b3a833-afeb-466d-a009-66e6c321565e")
-		)
-		(pin "1"
-			(uuid "1f0e0ed3-0f77-4d15-94f0-0995aef34723")
-		)
-		(instances
-			(project ""
-				(path "/073f53a3-faa8-4419-bff2-f325850469a4/b243e184-8694-4e24-9f49-14da58e669df"
-					(reference "J8")
 					(unit 1)
 				)
 			)

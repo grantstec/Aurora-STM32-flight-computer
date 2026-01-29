@@ -4763,6 +4763,12 @@
 		(uuid "01328f74-53bb-4a60-87b5-d9d4dec5fd49")
 	)
 	(junction
+		(at 363.22 212.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "09fd47a8-8068-4d6a-a08b-4f40dc9abba4")
+	)
+	(junction
 		(at 299.72 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4841,6 +4847,12 @@
 		(uuid "3d00f1c4-f2b0-4242-92a8-02379e1fcb84")
 	)
 	(junction
+		(at 363.22 233.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "40e6388e-f849-47b0-821f-a56330a656fa")
+	)
+	(junction
 		(at 236.22 269.24)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4851,6 +4863,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "43cf3391-20b0-41d5-a37e-ebccee47a39a")
+	)
+	(junction
+		(at 363.22 214.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4aca2111-9769-4032-be06-149661597535")
 	)
 	(junction
 		(at 198.12 27.94)
@@ -4907,6 +4925,12 @@
 		(uuid "6118453d-08e6-4417-b05d-2c34debc03b4")
 	)
 	(junction
+		(at 363.22 231.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6430b0e8-3a73-4ca1-96fc-eede04ed0e5c")
+	)
+	(junction
 		(at 120.65 234.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4937,6 +4961,12 @@
 		(uuid "73864f63-b529-45ad-92e9-53e0c66b2481")
 	)
 	(junction
+		(at 363.22 209.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "753c203b-662c-458e-a421-0e27b2a24b29")
+	)
+	(junction
 		(at 327.66 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4959,6 +4989,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9612e184-efd7-4d95-8313-b03ed1a54f2b")
+	)
+	(junction
+		(at 363.22 228.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a8f70404-58d4-42f3-b633-b52713bb2b52")
 	)
 	(junction
 		(at 209.55 269.24)
@@ -5164,6 +5200,16 @@
 	)
 	(wire
 		(pts
+			(xy 363.22 231.14) (xy 363.22 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0dcfae03-292c-4ad2-98f5-2c5219d0ebb9")
+	)
+	(wire
+		(pts
 			(xy 227.33 240.03) (xy 227.33 252.73)
 		)
 		(stroke
@@ -5281,6 +5327,16 @@
 			(type default)
 		)
 		(uuid "18d94b86-870e-4c84-a41b-aadbefef413b")
+	)
+	(wire
+		(pts
+			(xy 363.22 228.6) (xy 372.11 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18ed02dc-a067-4e60-ba93-654613cd432d")
 	)
 	(wire
 		(pts
@@ -5574,6 +5630,16 @@
 	)
 	(wire
 		(pts
+			(xy 363.22 207.01) (xy 363.22 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38a2230e-50b3-436d-a0e5-2fc0bd276bc5")
+	)
+	(wire
+		(pts
 			(xy 226.06 132.08) (xy 228.6 132.08)
 		)
 		(stroke
@@ -5581,6 +5647,16 @@
 			(type default)
 		)
 		(uuid "3a905699-21c0-4bf7-99fc-0b75d62be9a5")
+	)
+	(wire
+		(pts
+			(xy 363.22 212.09) (xy 372.11 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3afcb787-19fc-4558-93e4-3f42df490da1")
 	)
 	(wire
 		(pts
@@ -5704,6 +5780,16 @@
 	)
 	(wire
 		(pts
+			(xy 363.22 214.63) (xy 363.22 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46547f02-0f7f-4298-a24b-e58e06d6ccc7")
+	)
+	(wire
+		(pts
 			(xy 228.6 95.25) (xy 228.6 97.79)
 		)
 		(stroke
@@ -5711,6 +5797,16 @@
 			(type default)
 		)
 		(uuid "4731be42-5fdf-4747-a447-4f5adfb6cdbc")
+	)
+	(wire
+		(pts
+			(xy 363.22 209.55) (xy 363.22 212.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47f761c3-bdec-4196-ab81-7e7b7b15a6a1")
 	)
 	(wire
 		(pts
@@ -5901,6 +5997,16 @@
 			(type default)
 		)
 		(uuid "5b41cb41-7c72-4024-a107-19e0bd643f61")
+	)
+	(wire
+		(pts
+			(xy 363.22 233.68) (xy 363.22 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ca5bc6a-95e4-442f-a4a9-dbb3d2f99a76")
 	)
 	(wire
 		(pts
@@ -6644,6 +6750,16 @@
 	)
 	(wire
 		(pts
+			(xy 363.22 228.6) (xy 363.22 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1c10cd1-aa32-490c-bfe6-2a39da49ac80")
+	)
+	(wire
+		(pts
 			(xy 83.82 34.29) (xy 90.17 34.29)
 		)
 		(stroke
@@ -6774,6 +6890,16 @@
 	)
 	(wire
 		(pts
+			(xy 363.22 233.68) (xy 372.11 233.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9b98133-be97-4d8b-9a89-7b85e23b76ac")
+	)
+	(wire
+		(pts
 			(xy 209.55 259.08) (xy 209.55 269.24)
 		)
 		(stroke
@@ -6811,6 +6937,16 @@
 			(type default)
 		)
 		(uuid "abce7a85-6725-4d9a-9664-71d75f6bd1eb")
+	)
+	(wire
+		(pts
+			(xy 363.22 226.06) (xy 363.22 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abfce088-dc30-4dc3-b726-aa0b70faf798")
 	)
 	(wire
 		(pts
@@ -7054,6 +7190,26 @@
 	)
 	(wire
 		(pts
+			(xy 363.22 214.63) (xy 372.11 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c393fc07-3f97-4b7b-bc2a-1c44fa2f5971")
+	)
+	(wire
+		(pts
+			(xy 363.22 209.55) (xy 372.11 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c53f38fd-5c2b-4294-8090-a577ee536e5b")
+	)
+	(wire
+		(pts
 			(xy 350.52 88.9) (xy 355.6 88.9)
 		)
 		(stroke
@@ -7084,6 +7240,16 @@
 	)
 	(wire
 		(pts
+			(xy 363.22 212.09) (xy 363.22 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7c6660e-e283-44e2-a62a-2caca54c0375")
+	)
+	(wire
+		(pts
 			(xy 299.72 121.92) (xy 299.72 124.46)
 		)
 		(stroke
@@ -7101,6 +7267,16 @@
 			(type default)
 		)
 		(uuid "c7fafcaa-2f53-4849-ad0c-6ea653a98007")
+	)
+	(wire
+		(pts
+			(xy 363.22 231.14) (xy 372.11 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8077521-2e12-4a6b-9aab-32346faee7c4")
 	)
 	(wire
 		(pts
@@ -7314,6 +7490,16 @@
 	)
 	(wire
 		(pts
+			(xy 372.11 226.06) (xy 363.22 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbf3e09a-c8cd-4317-8687-5f913ca7cd4a")
+	)
+	(wire
+		(pts
 			(xy 96.52 134.62) (xy 113.03 134.62)
 		)
 		(stroke
@@ -7461,6 +7647,16 @@
 			(type default)
 		)
 		(uuid "eaed3fb5-e9b1-40b8-b0e5-411bd9689435")
+	)
+	(wire
+		(pts
+			(xy 363.22 217.17) (xy 372.11 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec12a733-96dc-45f5-86bd-732cbbc494bd")
 	)
 	(wire
 		(pts
@@ -8228,7 +8424,7 @@
 			)
 		)
 	)
-	(global_label "HDR_GPIO3"
+	(global_label "HDR_GPIO1"
 		(shape output)
 		(at 62.23 57.15 180)
 		(fields_autoplaced yes)
@@ -8272,7 +8468,7 @@
 			)
 		)
 	)
-	(global_label "HDR_GPIO5"
+	(global_label "HDR_GPIO2"
 		(shape output)
 		(at 62.23 59.69 180)
 		(fields_autoplaced yes)
@@ -8395,6 +8591,28 @@
 		(uuid "5393cbc2-60fd-4fb0-a585-a1b3db45f116")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 79.9277 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "HDR_GPIO1"
+		(shape output)
+		(at 370.84 196.85 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5666b64a-b8e8-4940-a668-c2d9a524ffbd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 357.3319 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8549,6 +8767,28 @@
 		(uuid "64d912a9-a463-41fe-bb05-909a8f0cad6a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 226.5824 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "5V"
+		(shape input)
+		(at 363.22 207.01 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6556e91b-06a9-40c5-a99e-c217cdfaaa27")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 357.9367 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8800,7 +9040,7 @@
 			)
 		)
 	)
-	(global_label "HDR_GPIO4"
+	(global_label "HDR_GPIO3"
 		(shape output)
 		(at 87.63 57.15 0)
 		(fields_autoplaced yes)
@@ -9350,7 +9590,7 @@
 			)
 		)
 	)
-	(global_label "HDR_GPIO5"
+	(global_label "HDR_GPIO2"
 		(shape output)
 		(at 312.42 182.88 0)
 		(fields_autoplaced yes)
@@ -9790,6 +10030,28 @@
 			)
 		)
 	)
+	(global_label "HDR_GPIO3"
+		(shape output)
+		(at 370.84 199.39 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fa4847e1-9c2a-4fba-b6f5-90cc328953d0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 357.3319 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SLN_2"
 		(shape input)
 		(at 77.47 140.97 180)
@@ -9939,6 +10201,100 @@
 			(project "Aurora"
 				(path "/073f53a3-faa8-4419-bff2-f325850469a4/18991d57-938a-4819-a35d-b2a2cddfbb7f"
 					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x04")
+		(at 377.19 228.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "091aef3d-6bfb-4035-a746-6f2ec845acde")
+		(property "Reference" "J48"
+			(at 379.73 228.5999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x04"
+			(at 379.73 231.1399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "footprints6:CONN_1715747_PXC"
+			(at 377.19 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 377.19 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 377.19 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1715747/260633"
+			(at 377.19 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $2.06500"
+			(at 377.19 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "64ec7490-d90d-45d0-a034-228268b0f0f6")
+		)
+		(pin "3"
+			(uuid "352100c4-51e9-4993-a8f0-a8535b06c905")
+		)
+		(pin "4"
+			(uuid "856819aa-5839-4e69-bdf7-cf2d1ca8ee15")
+		)
+		(pin "1"
+			(uuid "b3bbfd2e-8013-4b24-bc86-bae6ded9278d")
+		)
+		(instances
+			(project "Aurora"
+				(path "/073f53a3-faa8-4419-bff2-f325850469a4/18991d57-938a-4819-a35d-b2a2cddfbb7f"
+					(reference "J48")
 					(unit 1)
 				)
 			)
@@ -14420,6 +14776,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 375.92 196.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a167f4e8-c1bd-4e65-a88f-f8f5633add2a")
+		(property "Reference" "J8"
+			(at 378.46 196.8499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x02"
+			(at 378.46 199.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "footprints5:CONN_1729128_PXC"
+			(at 375.92 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 375.92 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 375.92 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1729128/260615?msockid=2519f0312b83673a161fe62a2a5a66c9"
+			(at 375.92 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $1.33000"
+			(at 375.92 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "eb55c7d0-747d-4eaa-8404-625a78ee616e")
+		)
+		(pin "1"
+			(uuid "74ab6e09-d477-4464-9b8b-55da94d4f82b")
+		)
+		(instances
+			(project "Aurora"
+				(path "/073f53a3-faa8-4419-bff2-f325850469a4/18991d57-938a-4819-a35d-b2a2cddfbb7f"
+					(reference "J8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 218.44 111.76 180)
 		(unit 1)
@@ -16882,6 +17326,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 363.22 237.49 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e1eda6e9-f7e1-458d-bcd1-00ac03304aff")
+		(property "Reference" "#PWR047"
+			(at 363.22 243.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 363.22 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 363.22 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 363.22 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 363.22 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cb9673e6-13e0-4ff1-9fba-ba68e63be23b")
+		)
+		(instances
+			(project "Aurora"
+				(path "/073f53a3-faa8-4419-bff2-f325850469a4/18991d57-938a-4819-a35d-b2a2cddfbb7f"
+					(reference "#PWR047")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 130.81 251.46 0)
 		(unit 1)
@@ -17668,6 +18178,100 @@
 			(project "Aurora"
 				(path "/073f53a3-faa8-4419-bff2-f325850469a4/18991d57-938a-4819-a35d-b2a2cddfbb7f"
 					(reference "#PWR048")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x04")
+		(at 377.19 212.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fb03c306-92c3-41d0-8f17-9a35797cd7bf")
+		(property "Reference" "J47"
+			(at 379.73 212.0899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x04"
+			(at 379.73 214.6299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "footprints6:CONN_1715747_PXC"
+			(at 377.19 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 377.19 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 377.19 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1715747/260633"
+			(at 377.19 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $2.06500"
+			(at 377.19 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "95b23463-ae94-49e3-80e1-e07706566ef2")
+		)
+		(pin "3"
+			(uuid "a9b6a81b-cf5d-45e0-824e-31963c583615")
+		)
+		(pin "4"
+			(uuid "49cbe550-35f8-4f0d-bc64-82ac86064772")
+		)
+		(pin "1"
+			(uuid "827f4b2d-4ed0-4a2f-a8f5-6ca8e82f8afd")
+		)
+		(instances
+			(project "Aurora"
+				(path "/073f53a3-faa8-4419-bff2-f325850469a4/18991d57-938a-4819-a35d-b2a2cddfbb7f"
+					(reference "J47")
 					(unit 1)
 				)
 			)
