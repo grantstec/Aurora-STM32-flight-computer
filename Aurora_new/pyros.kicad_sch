@@ -5,6 +5,186 @@
 	(uuid "b48b0700-9e22-4048-b98b-80918ab7c574")
 	(paper "A3")
 	(lib_symbols
+		(symbol "CES-104-X-X-S:CES-104-X-X-S"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at -5.08 5.842 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "CES-104-X-X-S"
+				(at -5.08 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "CES-104-X-X-S:SAMTEC_CES-104-X-X-S"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "5.08 mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Samtec"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "CES-104-X-X-S_0_0"
+				(rectangle
+					(start -5.08 -7.62)
+					(end 5.08 5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at -10.16 2.54 0)
+					(length 5.08)
+					(name "01"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "01"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 0 0)
+					(length 5.08)
+					(name "02"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "02"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 -2.54 0)
+					(length 5.08)
+					(name "03"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "03"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -10.16 -5.08 0)
+					(length 5.08)
+					(name "04"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "04"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector:Screw_Terminal_01x02"
 			(pin_names
 				(offset 1.016)
@@ -999,6 +1179,200 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "SAMTEC-CES-103-01-X-D:SAMTEC-CES-103-01-X-D"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "SAMTEC-CES-103-01-X-D"
+				(at 0 -15.24 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "SAMTEC-CES-103-01-X-D:SAMTEC-CES-103-01-X-D"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SAMTEC-CES-103-01-X-D_0_0"
+				(rectangle
+					(start 0 -10.16)
+					(end 20.3 5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(text ">PARTNO"
+					(at 0 -12.7 0)
+					(effects
+						(font
+							(size 2.286 2.286)
+						)
+						(justify left bottom)
+					)
+				)
+				(text "SAMTEC-CES-103-01-X-D"
+					(at 0 -17.78 0)
+					(effects
+						(font
+							(size 2.286 2.286)
+						)
+						(justify left bottom)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 5.08)
+					(name "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 5.08)
+					(name "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 5.08)
+					(name "5"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 0 180)
+					(length 5.08)
+					(name "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -2.54 180)
+					(length 5.08)
+					(name "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 25.4 -5.08 180)
+					(length 5.08)
+					(name "6"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers
@@ -1137,6 +1511,18 @@
 		)
 		(uuid 95ebabcc-07de-42a0-b7dd-b560aa49ab71)
 	)
+	(rectangle
+		(start 285.75 12.7)
+		(end 407.67 95.25)
+		(stroke
+			(width 0.762)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid d178eee2-501d-45f3-bb48-cfb7d3880f09)
+	)
 	(text "Additional IO peripherals"
 		(exclude_from_sim no)
 		(at 213.106 116.332 0)
@@ -1172,6 +1558,18 @@
 			)
 		)
 		(uuid "b98effbd-04ea-40a1-a1f6-be70fa42877b")
+	)
+	(text "Female Header Pins for Debug"
+		(exclude_from_sim no)
+		(at 353.314 20.828 0)
+		(effects
+			(font
+				(size 3.175 3.175)
+				(thickness 1.27)
+				(bold yes)
+			)
+		)
+		(uuid "d0cee223-4489-4598-ba09-77be92f2dcb3")
 	)
 	(junction
 		(at 49.53 171.45)
@@ -1461,6 +1859,16 @@
 	)
 	(wire
 		(pts
+			(xy 370.84 66.04) (xy 365.76 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e6d2761-753b-4179-84b9-aa7ef17988d4")
+	)
+	(wire
+		(pts
 			(xy 49.53 88.9) (xy 58.42 88.9)
 		)
 		(stroke
@@ -1641,6 +2049,16 @@
 	)
 	(wire
 		(pts
+			(xy 339.09 50.8) (xy 339.09 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2901cd3c-76a0-4d8d-9504-09d216a1f9ae")
+	)
+	(wire
+		(pts
 			(xy 49.53 176.53) (xy 58.42 176.53)
 		)
 		(stroke
@@ -1718,6 +2136,16 @@
 			(type default)
 		)
 		(uuid "338e1993-6742-479f-9d8d-698bd71f41c9")
+	)
+	(wire
+		(pts
+			(xy 342.9 50.8) (xy 339.09 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33e41a06-dcba-4210-a356-2f7188eca1a6")
 	)
 	(wire
 		(pts
@@ -1861,6 +2289,16 @@
 	)
 	(wire
 		(pts
+			(xy 370.84 63.5) (xy 365.76 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47bbdb85-8c46-4808-ae0e-79d5de3da111")
+	)
+	(wire
+		(pts
 			(xy 172.72 95.25) (xy 181.61 95.25)
 		)
 		(stroke
@@ -1968,6 +2406,16 @@
 			(type default)
 		)
 		(uuid "64f9f30e-d1c1-4b30-b906-30817858256b")
+	)
+	(wire
+		(pts
+			(xy 337.82 43.18) (xy 342.9 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64fd00d2-67da-4574-9849-e9d4f0e6c622")
 	)
 	(wire
 		(pts
@@ -2121,6 +2569,16 @@
 	)
 	(wire
 		(pts
+			(xy 330.2 66.04) (xy 335.28 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8556c493-800f-4009-8061-5954356099b7")
+	)
+	(wire
+		(pts
 			(xy 33.02 40.64) (xy 58.42 40.64)
 		)
 		(stroke
@@ -2158,6 +2616,16 @@
 			(type default)
 		)
 		(uuid "8c55859f-d4d8-4e98-b848-794b2eec675e")
+	)
+	(wire
+		(pts
+			(xy 330.2 68.58) (xy 335.28 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cd4aeb9-c422-4584-bd24-2ae131397075")
 	)
 	(wire
 		(pts
@@ -2571,6 +3039,16 @@
 	)
 	(wire
 		(pts
+			(xy 365.76 68.58) (xy 369.57 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d90cf314-1797-47fc-9ac2-16da789a8806")
+	)
+	(wire
+		(pts
 			(xy 49.53 143.51) (xy 49.53 146.05)
 		)
 		(stroke
@@ -2691,6 +3169,16 @@
 	)
 	(wire
 		(pts
+			(xy 330.2 63.5) (xy 335.28 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e830b6c6-b81c-457c-a68c-b65eabc83176")
+	)
+	(wire
+		(pts
 			(xy 251.46 92.71) (xy 237.49 92.71)
 		)
 		(stroke
@@ -2749,6 +3237,28 @@
 		)
 		(uuid "f841f782-e962-4837-ba5d-f0f3fd9253de")
 	)
+	(global_label "3V3_SENS"
+		(shape input)
+		(at 330.2 63.5 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "02168e0e-007e-43c4-8144-b9f6c7588e6a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 317.8411 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SPI5_MOSI"
 		(shape input)
 		(at 241.3 41.91 180)
@@ -2784,6 +3294,28 @@
 		(uuid "033379bf-c0e5-4f56-960a-daaeeb0e9021")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 166.2272 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3V3_SENS"
+		(shape input)
+		(at 337.82 43.18 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "03ee21ad-a431-4f83-a326-6e12d3c872b9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 325.4611 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3013,6 +3545,28 @@
 			)
 		)
 	)
+	(global_label "DEBUG_SWDIO"
+		(shape input)
+		(at 342.9 48.26 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "46cebfe4-dc0c-44da-966d-5abcefe59760")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 326.7915 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GPIO_A4"
 		(shape input)
 		(at 33.02 35.56 180)
@@ -3048,6 +3602,28 @@
 		(uuid "4f4f59ab-15d8-4a98-bbbf-a234e5d2ffec")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 22.1124 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DEBUG_SWCLK"
+		(shape input)
+		(at 342.9 45.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "523d8bf3-c56a-4239-b0fb-2b27b68edc45")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 326.4287 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3114,6 +3690,28 @@
 		(uuid "5f30c4aa-ca0a-4223-be16-653557690e5e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 242.7733 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "XB_TX"
+		(shape input)
+		(at 370.84 66.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5fd367f1-6896-4696-9cc2-f2a5c6f2dc1a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 379.4494 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3585,6 +4183,28 @@
 			)
 		)
 	)
+	(global_label "XB_CTS"
+		(shape input)
+		(at 330.2 66.04 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e5d74c8d-b59e-47ea-8fa9-a78075a0be1f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 320.3206 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "UART8_RX"
 		(shape input)
 		(at 237.49 92.71 180)
@@ -3651,6 +4271,28 @@
 			)
 		)
 	)
+	(global_label "XB_RTS"
+		(shape input)
+		(at 330.2 68.58 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f4ffd28b-0555-4769-9d9c-3989edb6d1e2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 320.3206 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GPIO_B1"
 		(shape input)
 		(at 33.02 55.88 180)
@@ -3669,6 +4311,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "XB_RX"
+		(shape output)
+		(at 370.84 63.5 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ff231f02-9dba-42cd-b524-1f2ae6ebb7fd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 379.7518 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -4294,6 +4958,86 @@
 		)
 	)
 	(symbol
+		(lib_id "SAMTEC-CES-103-01-X-D:SAMTEC-CES-103-01-X-D")
+		(at 340.36 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "782037e1-d981-44dc-a476-4546c7e810c6")
+		(property "Reference" "J51"
+			(at 364.9349 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SAMTEC-CES-103-01-X-D"
+			(at 364.9349 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "CES_103_01_L_D:SAMTEC-CES-103-01-X-D"
+			(at 340.36 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 340.36 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 340.36 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "b136b1df-b4f1-4ad6-bca5-8da9809629bf")
+		)
+		(pin "2"
+			(uuid "ed32592e-69ed-4109-b5dd-70daba8514f3")
+		)
+		(pin "3"
+			(uuid "9d64d12a-ac89-46bc-b3f6-fca8c99a4dba")
+		)
+		(pin "4"
+			(uuid "619bb268-89bf-4fc6-81b4-b4f6cd878b54")
+		)
+		(pin "1"
+			(uuid "52e9697b-4fa1-4027-94ef-974b5628ec64")
+		)
+		(pin "6"
+			(uuid "ba63ded0-9302-4192-85ff-c11990845929")
+		)
+		(instances
+			(project ""
+				(path "/073f53a3-faa8-4419-bff2-f325850469a4/b243e184-8694-4e24-9f49-14da58e669df"
+					(reference "J51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Screw_Terminal_01x04")
 		(at 256.54 39.37 0)
 		(unit 1)
@@ -4476,6 +5220,72 @@
 			(project "Aurora"
 				(path "/073f53a3-faa8-4419-bff2-f325850469a4/b243e184-8694-4e24-9f49-14da58e669df"
 					(reference "J9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 339.09 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9b99b3e6-e833-4f02-87d3-23c59136205e")
+		(property "Reference" "#PWR096"
+			(at 339.09 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 339.09 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 339.09 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 339.09 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 339.09 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "20e9a7a4-ad36-4cc0-bb82-d8c76306e294")
+		)
+		(instances
+			(project "Aurora"
+				(path "/073f53a3-faa8-4419-bff2-f325850469a4/b243e184-8694-4e24-9f49-14da58e669df"
+					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -4963,6 +5773,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 369.57 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c41f6691-d827-45b6-8cab-454ec7ccaba3")
+		(property "Reference" "#PWR095"
+			(at 369.57 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 369.57 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 369.57 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 369.57 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 369.57 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b20948bb-727c-475a-8223-92cbc34348f6")
+		)
+		(instances
+			(project ""
+				(path "/073f53a3-faa8-4419-bff2-f325850469a4/b243e184-8694-4e24-9f49-14da58e669df"
+					(reference "#PWR095")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Screw_Terminal_01x04")
 		(at 176.53 132.08 0)
 		(unit 1)
@@ -5351,6 +6227,123 @@
 			(project "Aurora"
 				(path "/073f53a3-faa8-4419-bff2-f325850469a4/b243e184-8694-4e24-9f49-14da58e669df"
 					(reference "J10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CES-104-X-X-S:CES-104-X-X-S")
+		(at 353.06 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ee224d07-c2a6-45fc-9dee-508eb61f31a1")
+		(property "Reference" "J49"
+			(at 359.41 45.7199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "CES-104-X-X-S"
+			(at 359.41 48.2599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "CES_104_01_L_S:SAMTEC_CES-104-X-X-S"
+			(at 353.06 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 353.06 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 353.06 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "A"
+			(at 353.06 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 353.06 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "5.08 mm"
+			(at 353.06 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Samtec"
+			(at 353.06 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "01"
+			(uuid "0d5f686f-b0e9-47e7-828c-23c59c64c8bd")
+		)
+		(pin "03"
+			(uuid "1ab05226-7220-485f-ba9d-afaa23f5fc1f")
+		)
+		(pin "04"
+			(uuid "0544be5d-b09d-4918-8b74-9da5cb2be7f1")
+		)
+		(pin "02"
+			(uuid "db4dca04-b3f3-47a3-9fbd-5b7c929cd956")
+		)
+		(instances
+			(project ""
+				(path "/073f53a3-faa8-4419-bff2-f325850469a4/b243e184-8694-4e24-9f49-14da58e669df"
+					(reference "J49")
 					(unit 1)
 				)
 			)
