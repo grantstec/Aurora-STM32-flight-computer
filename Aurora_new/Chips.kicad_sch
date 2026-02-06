@@ -23316,7 +23316,7 @@
 		)
 	)
 	(global_label "V_OUT"
-		(shape output)
+		(shape bidirectional)
 		(at 562.61 137.16 0)
 		(fields_autoplaced yes)
 		(effects
@@ -23327,7 +23327,7 @@
 		)
 		(uuid "a6098a36-4013-41f2-8e31-4d49c7969b85")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 571.28 137.16 0)
+			(at 572.3913 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24503,7 +24503,7 @@
 			)
 		)
 	)
-	(global_label "3V3"
+	(global_label "3V3_MCU"
 		(shape input)
 		(at 26.67 248.92 180)
 		(fields_autoplaced yes)
@@ -24515,7 +24515,7 @@
 		)
 		(uuid "da10d0a6-3d4f-4ec7-8b93-891cff52341c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.1772 248.92 0)
+			(at 15.1577 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
