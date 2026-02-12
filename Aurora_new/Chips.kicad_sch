@@ -21333,6 +21333,28 @@
 			)
 		)
 	)
+	(global_label "XB_TX"
+		(shape input)
+		(at 180.34 173.99 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "436527b1-ca26-4e28-b879-765fdbdcf70e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 188.9494 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "VDD12DSI"
 		(shape input)
 		(at 72.39 351.79 180)
@@ -21791,6 +21813,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "XB_RX"
+		(shape output)
+		(at 180.34 171.45 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "58df7ecc-ba11-47aa-ae07-167de86c4a4b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 189.2518 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
