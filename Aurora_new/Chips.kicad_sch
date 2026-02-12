@@ -13112,12 +13112,6 @@
 		(uuid "1b74883c-4673-4eb7-96a5-bd47f4cebf2f")
 	)
 	(junction
-		(at 231.14 168.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1cced7e9-ec1d-4a65-abb5-c561e3c5daa1")
-	)
-	(junction
 		(at 48.26 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -15649,16 +15643,6 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 168.91) (xy 231.14 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3cbff9e3-0fc5-4762-a530-71ab9420c985")
-	)
-	(wire
-		(pts
 			(xy 478.79 341.63) (xy 478.79 347.98)
 		)
 		(stroke
@@ -15869,16 +15853,6 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 168.91) (xy 246.38 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "44f86547-4d6e-462c-ac4b-a7eedb54c72f")
-	)
-	(wire
-		(pts
 			(xy 241.3 148.59) (xy 246.38 148.59)
 		)
 		(stroke
@@ -15976,16 +15950,6 @@
 			(type default)
 		)
 		(uuid "4a0ce6c3-f9eb-425d-9b4c-5c4ccdce5c52")
-	)
-	(wire
-		(pts
-			(xy 231.14 168.91) (xy 226.06 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4a1c9fdd-3f6e-4144-b18f-8e1b8ee6a224")
 	)
 	(wire
 		(pts
@@ -16446,16 +16410,6 @@
 			(type default)
 		)
 		(uuid "59805419-9c4c-4426-bca8-82017569b43f")
-	)
-	(wire
-		(pts
-			(xy 180.34 173.99) (xy 185.42 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59950f26-56a6-46df-a8da-477ccd3df816")
 	)
 	(wire
 		(pts
@@ -17589,6 +17543,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 179.07) (xy 185.42 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b30a190-26ba-4117-96f3-eefc95999699")
+	)
+	(wire
+		(pts
 			(xy 502.92 64.77) (xy 502.92 66.04)
 		)
 		(stroke
@@ -17616,16 +17580,6 @@
 			(type default)
 		)
 		(uuid "8de5df93-e8e2-4e81-a794-c52ae1e59a1d")
-	)
-	(wire
-		(pts
-			(xy 231.14 161.29) (xy 219.71 161.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e54a098-96b0-4987-a51d-3eac798978a2")
 	)
 	(wire
 		(pts
@@ -21181,28 +21135,6 @@
 			)
 		)
 	)
-	(global_label "B{slash}R_CLK"
-		(shape output)
-		(at 246.38 171.45 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3585cdf7-73d2-411b-8bd9-1f69f61ed400")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 234.9886 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "BNO_NRST"
 		(shape output)
 		(at 71.12 161.29 180)
@@ -21221,28 +21153,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "3V3_XB"
-		(shape input)
-		(at 219.71 161.29 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "378d8a55-52d7-4767-a97f-cbb5d1e2e23c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 219.71 151.3501 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -22853,28 +22763,6 @@
 			)
 		)
 	)
-	(global_label "XBP_CS"
-		(shape input)
-		(at 226.06 168.91 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8d0dbbbf-2aa8-4681-aa55-2840a76535ff")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 215.8782 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "3V3_SENS"
 		(shape input)
 		(at 491.49 344.17 180)
@@ -23667,28 +23555,6 @@
 			)
 		)
 	)
-	(global_label "EXP_SCL"
-		(shape input)
-		(at 185.42 173.99 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b3a92f4f-b49f-4fc7-b0a0-70d3f3289987")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 196.5089 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "ICM426_INT2"
 		(shape output)
 		(at 374.65 148.59 180)
@@ -24384,6 +24250,28 @@
 		(uuid "d52cd0c0-1b1c-43f1-af56-8e1f5d61015e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 309.1762 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "EXP_SCL"
+		(shape input)
+		(at 185.42 179.07 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d5dfbd7b-80fc-46b4-bb74-44db8893e320")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 196.5089 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25251,28 +25139,6 @@
 			)
 		)
 	)
-	(global_label "B{slash}R_MOSI"
-		(shape input)
-		(at 246.38 166.37 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f886a4d5-49d5-4539-9d91-3fdba78545a3")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 233.9605 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "VDDLDO"
 		(shape input)
 		(at 153.67 104.14 90)
@@ -25357,28 +25223,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "B{slash}R_MISO"
-		(shape output)
-		(at 246.38 163.83 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fe1692ca-eab0-4201-9349-87bc6601da9b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 233.9605 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -36376,91 +36220,6 @@
 			(project "Aurora"
 				(path "/073f53a3-faa8-4419-bff2-f325850469a4/4a7b3f92-b695-4002-a887-607ce282d6cd"
 					(reference "#PWR059")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 231.14 163.83 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ed12db7c-7150-417d-bb50-898691653403")
-		(property "Reference" "R11"
-			(at 225.806 162.814 0)
-			(effects
-				(font
-					(size 1.016 1.016)
-				)
-			)
-		)
-		(property "Value" "620R"
-			(at 226.06 164.592 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 231.14 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 231.14 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 231.14 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/bourns-inc/CR0805-FX-6200ELF/3785055"
-			(at 231.14 163.83 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" " $0.00661"
-			(at 231.14 163.83 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "509dea19-c172-4dcc-a990-3fff45effa8e")
-		)
-		(pin "1"
-			(uuid "40a99c76-2534-49cb-b71e-6fb656ccccd2")
-		)
-		(instances
-			(project "Aurora"
-				(path "/073f53a3-faa8-4419-bff2-f325850469a4/4a7b3f92-b695-4002-a887-607ce282d6cd"
-					(reference "R11")
 					(unit 1)
 				)
 			)
