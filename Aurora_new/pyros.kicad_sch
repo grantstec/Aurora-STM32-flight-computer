@@ -5984,7 +5984,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PPTC032LFBN-RC:SULLINS_PPTC032LFBN-RC"
+		(property "Footprint" "Connector_PinSocket_1.00mm:PinSocket_2x03_P1.00mm_Vertical_SMD"
 			(at 350.52 66.04 0)
 			(effects
 				(font

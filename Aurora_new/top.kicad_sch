@@ -5098,6 +5098,54 @@
 		(color 0 0 0 0)
 		(uuid "fb60d27b-8245-4504-9b4f-2e84ea06faad")
 	)
+	(no_connect
+		(at 165.1 35.56)
+		(uuid "02c1b877-3626-455c-8f33-8f4b5f1ecbf4")
+	)
+	(no_connect
+		(at 165.1 43.18)
+		(uuid "17d46649-3b82-4137-bc69-9203a1219e46")
+	)
+	(no_connect
+		(at 350.52 78.74)
+		(uuid "2119f542-dde3-4d45-bda3-2a002fc572ae")
+	)
+	(no_connect
+		(at 185.42 33.02)
+		(uuid "28a6ad67-d2de-4537-a938-ccf261efef21")
+	)
+	(no_connect
+		(at 165.1 53.34)
+		(uuid "65e9d9ac-ace7-443b-a3c6-4a70778ca1ed")
+	)
+	(no_connect
+		(at 172.72 60.96)
+		(uuid "6c6a2133-d756-44ba-8b1d-b4a9a6fa3173")
+	)
+	(no_connect
+		(at 165.1 50.8)
+		(uuid "7ea4d131-a057-42eb-b7fb-a76d899b9bb8")
+	)
+	(no_connect
+		(at 165.1 45.72)
+		(uuid "8d720ee8-3d84-454a-ba9d-ef3f80506bb0")
+	)
+	(no_connect
+		(at 379.73 34.29)
+		(uuid "ab9a9c05-d174-4236-aad8-c79149578ef0")
+	)
+	(no_connect
+		(at 165.1 38.1)
+		(uuid "c146bdd0-5985-49e5-9e84-e01987b10269")
+	)
+	(no_connect
+		(at 318.77 33.02)
+		(uuid "c900efc6-c840-4086-896e-f25a74edd16f")
+	)
+	(no_connect
+		(at 297.18 182.88)
+		(uuid "cddf143a-1299-4a28-b782-5ccce7e23839")
+	)
 	(wire
 		(pts
 			(xy 219.71 91.44) (xy 219.71 95.25)
@@ -7919,7 +7967,7 @@
 		(uuid "fdce3054-118c-46d4-a886-03ee2ede8803")
 	)
 	(global_label "SERVO4"
-		(shape input)
+		(shape output)
 		(at 90.17 39.37 180)
 		(fields_autoplaced yes)
 		(effects
@@ -8447,7 +8495,7 @@
 		)
 	)
 	(global_label "5V"
-		(shape input)
+		(shape output)
 		(at 64.77 34.29 0)
 		(fields_autoplaced yes)
 		(effects
@@ -8579,7 +8627,7 @@
 		)
 	)
 	(global_label "SERVO6"
-		(shape input)
+		(shape output)
 		(at 90.17 41.91 180)
 		(fields_autoplaced yes)
 		(effects
@@ -8909,7 +8957,7 @@
 		)
 	)
 	(global_label "SERVO3"
-		(shape input)
+		(shape output)
 		(at 115.57 36.83 0)
 		(fields_autoplaced yes)
 		(effects
@@ -9393,7 +9441,7 @@
 		)
 	)
 	(global_label "7.4V"
-		(shape input)
+		(shape output)
 		(at 83.82 34.29 180)
 		(fields_autoplaced yes)
 		(effects
@@ -9437,7 +9485,7 @@
 		)
 	)
 	(global_label "SERVO7"
-		(shape input)
+		(shape output)
 		(at 115.57 41.91 0)
 		(fields_autoplaced yes)
 		(effects
@@ -9503,7 +9551,7 @@
 		)
 	)
 	(global_label "PYRO1_GPIO"
-		(shape input)
+		(shape output)
 		(at 33.02 34.29 180)
 		(fields_autoplaced yes)
 		(effects
@@ -9547,7 +9595,7 @@
 		)
 	)
 	(global_label "SERVO2"
-		(shape input)
+		(shape output)
 		(at 90.17 36.83 180)
 		(fields_autoplaced yes)
 		(effects
@@ -9635,7 +9683,7 @@
 		)
 	)
 	(global_label "SERVO1"
-		(shape input)
+		(shape output)
 		(at 115.57 34.29 0)
 		(fields_autoplaced yes)
 		(effects
@@ -9789,7 +9837,7 @@
 		)
 	)
 	(global_label "SERVO5"
-		(shape input)
+		(shape output)
 		(at 115.57 39.37 0)
 		(fields_autoplaced yes)
 		(effects
@@ -9855,7 +9903,7 @@
 		)
 	)
 	(global_label "PYRO2_GPIO"
-		(shape input)
+		(shape output)
 		(at 33.02 41.91 180)
 		(fields_autoplaced yes)
 		(effects
