@@ -196,47 +196,6 @@
 		(uuid "da57d776-b97f-44ba-917f-368faa53786f")
 	)
 	(sheet
-		(at 17.78 44.45)
-		(size 12.7 3.81)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "18991d57-938a-4819-a35d-b2a2cddfbb7f")
-		(property "Sheetname" "Top"
-			(at 17.526 43.688 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "top.kicad_sch"
-			(at 17.78 49.276 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Aurora"
-				(path "/073f53a3-faa8-4419-bff2-f325850469a4"
-					(page "4")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 17.78 34.29)
 		(size 12.7 3.81)
 		(exclude_from_sim no)

@@ -3658,7 +3658,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "USB_VBUS"
 		(shape input)
 		(at 168.91 76.2 180)
 		(fields_autoplaced yes)
@@ -3670,7 +3670,7 @@
 		)
 		(uuid "07fe0498-9b90-477e-ac00-bc7598884957")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.6267 76.2 0)
+			(at 156.2486 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3966,7 +3966,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "USB_VBUS"
 		(shape input)
 		(at 49.53 140.97 180)
 		(fields_autoplaced yes)
@@ -3978,7 +3978,7 @@
 		)
 		(uuid "5dc99e60-2873-4e5b-b39c-2b0824ae6bbf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.2467 140.97 0)
+			(at 36.8686 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4120,7 +4120,7 @@
 			)
 		)
 	)
-	(global_label "5V"
+	(global_label "USB_VBUS"
 		(shape input)
 		(at 158.75 129.54 180)
 		(fields_autoplaced yes)
@@ -4132,7 +4132,7 @@
 		)
 		(uuid "7bace6fc-6617-4c61-a838-97f9bb4f66e3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 153.4667 129.54 0)
+			(at 146.0886 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4698,7 +4698,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints6:CONN_1715747_PXC"
+		(property "Footprint" "1984633:PHOENIX_1984633"
 			(at 256.54 53.34 0)
 			(effects
 				(font
@@ -4792,7 +4792,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints6:CONN_1715747_PXC"
+		(property "Footprint" "1984633:PHOENIX_1984633"
 			(at 176.53 148.59 0)
 			(effects
 				(font
@@ -4886,7 +4886,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints7:CONN_1715789_PXC"
+		(property "Footprint" "1984675:PHOENIX_1984675"
 			(at 63.5 60.96 0)
 			(effects
 				(font
@@ -5190,7 +5190,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints7:CONN_1715789_PXC"
+		(property "Footprint" "1984675:PHOENIX_1984675"
 			(at 63.5 179.07 0)
 			(effects
 				(font
@@ -5296,7 +5296,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints5:CONN_1729128_PXC"
+		(property "Footprint" "1984617:PHOENIX_1984617"
 			(at 186.69 54.61 0)
 			(effects
 				(font
@@ -5384,7 +5384,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints6:CONN_1715747_PXC"
+		(property "Footprint" "1984633:PHOENIX_1984633"
 			(at 256.54 39.37 0)
 			(effects
 				(font
@@ -5478,7 +5478,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints6:CONN_1715747_PXC"
+		(property "Footprint" "1984633:PHOENIX_1984633"
 			(at 186.69 76.2 0)
 			(effects
 				(font
@@ -5687,7 +5687,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints7:CONN_1715789_PXC"
+		(property "Footprint" "1984675:PHOENIX_1984675"
 			(at 63.5 115.57 0)
 			(effects
 				(font
@@ -5793,7 +5793,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints5:CONN_1729128_PXC"
+		(property "Footprint" "1984617:PHOENIX_1984617"
 			(at 186.69 36.83 0)
 			(effects
 				(font
@@ -5880,7 +5880,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints7:CONN_1715789_PXC"
+		(property "Footprint" "1984675:PHOENIX_1984675"
 			(at 63.5 151.13 0)
 			(effects
 				(font
@@ -6117,7 +6117,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints5:CONN_1729128_PXC"
+		(property "Footprint" "1984617:PHOENIX_1984617"
 			(at 256.54 92.71 0)
 			(effects
 				(font
@@ -6205,7 +6205,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints6:CONN_1715747_PXC"
+		(property "Footprint" "1984633:PHOENIX_1984633"
 			(at 186.69 90.17 0)
 			(effects
 				(font
@@ -6365,7 +6365,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints6:CONN_1715747_PXC"
+		(property "Footprint" "1984633:PHOENIX_1984633"
 			(at 176.53 132.08 0)
 			(effects
 				(font
@@ -6459,7 +6459,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints7:CONN_1715789_PXC"
+		(property "Footprint" "1984675:PHOENIX_1984675"
 			(at 63.5 86.36 0)
 			(effects
 				(font
@@ -6565,7 +6565,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints7:CONN_1715789_PXC"
+		(property "Footprint" "1984675:PHOENIX_1984675"
 			(at 63.5 35.56 0)
 			(effects
 				(font
@@ -6671,7 +6671,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints5:CONN_1729128_PXC"
+		(property "Footprint" "1984617:PHOENIX_1984617"
 			(at 256.54 83.82 0)
 			(effects
 				(font
@@ -6759,7 +6759,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints5:CONN_1729128_PXC"
+		(property "Footprint" "1984617:PHOENIX_1984617"
 			(at 186.69 45.72 0)
 			(effects
 				(font
@@ -6847,7 +6847,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "footprints6:CONN_1715747_PXC"
+		(property "Footprint" "1984633:PHOENIX_1984633"
 			(at 218.44 139.7 0)
 			(effects
 				(font
