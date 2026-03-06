@@ -2182,16 +2182,6 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 41.91) (xy 251.46 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0bda9aad-2d27-428f-9502-50363fa8467b")
-	)
-	(wire
-		(pts
 			(xy 368.3 66.04) (xy 363.22 66.04)
 		)
 		(stroke
@@ -2209,16 +2199,6 @@
 			(type default)
 		)
 		(uuid "0f599e9d-98b9-4401-83ed-3b8c631cc5d0")
-	)
-	(wire
-		(pts
-			(xy 241.3 44.45) (xy 251.46 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0f7eb268-b362-4acd-9464-979c9e1de70c")
 	)
 	(wire
 		(pts
@@ -3202,16 +3182,6 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 36.83) (xy 251.46 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "beb618cc-0dfc-4147-a891-16e33a4e9e35")
-	)
-	(wire
-		(pts
 			(xy 49.53 156.21) (xy 58.42 156.21)
 		)
 		(stroke
@@ -3219,16 +3189,6 @@
 			(type default)
 		)
 		(uuid "bf2f4265-0410-4967-b9cc-6406a573819f")
-	)
-	(wire
-		(pts
-			(xy 241.3 39.37) (xy 251.46 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bfd348c0-95c1-4932-aec8-c767ef1ade9c")
 	)
 	(wire
 		(pts
@@ -3594,7 +3554,7 @@
 	)
 	(global_label "SPI5_MOSI"
 		(shape input)
-		(at 241.3 41.91 180)
+		(at 251.46 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3604,7 +3564,7 @@
 		)
 		(uuid "02eeb93b-d839-4452-94ea-a67ea2db146e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 228.4572 41.91 0)
+			(at 238.6172 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3858,7 +3818,7 @@
 	)
 	(global_label "SPI5_CS"
 		(shape input)
-		(at 241.3 44.45 180)
+		(at 251.46 43.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3868,7 +3828,7 @@
 		)
 		(uuid "31ceb079-b808-4e59-ad46-37e13745e260")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 230.5739 44.45 0)
+			(at 240.7339 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3946,7 +3906,7 @@
 	)
 	(global_label "SPI5_CLK"
 		(shape input)
-		(at 241.3 36.83 180)
+		(at 251.46 35.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3956,7 +3916,7 @@
 		)
 		(uuid "57037a44-38ee-4f34-a655-06bae6aed1b0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 229.4853 36.83 0)
+			(at 239.6453 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4408,7 +4368,7 @@
 	)
 	(global_label "SPI5_MISO"
 		(shape input)
-		(at 241.3 39.37 180)
+		(at 251.46 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4418,7 +4378,7 @@
 		)
 		(uuid "c5c184f5-d189-4dbd-b973-7067b66414ee")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 228.4572 39.37 0)
+			(at 238.6172 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5097,6 +5057,94 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 256.54 35.56 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "35171c9c-a9a6-4e82-96e2-9c26a7d28f17")
+		(property "Reference" "J8"
+			(at 259.08 35.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x02"
+			(at 259.08 38.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "1984617:PHOENIX_1984617"
+			(at 256.54 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 256.54 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 256.54 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1729128/260615?msockid=2519f0312b83673a161fe62a2a5a66c9"
+			(at 256.54 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $1.33000"
+			(at 256.54 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0b4b0cd3-ff80-4440-acc0-d66da4599648")
+		)
+		(pin "1"
+			(uuid "bb32ab06-ac39-4780-8fb6-ba54fe56640e")
+		)
+		(instances
+			(project "Aurora"
+				(path "/073f53a3-faa8-4419-bff2-f325850469a4/b243e184-8694-4e24-9f49-14da58e669df"
+					(reference "J8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 337.82 48.26 0)
 		(unit 1)
@@ -5351,100 +5399,6 @@
 			(project "Aurora"
 				(path "/073f53a3-faa8-4419-bff2-f325850469a4/b243e184-8694-4e24-9f49-14da58e669df"
 					(reference "J15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Screw_Terminal_01x04")
-		(at 256.54 39.37 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7a1b2152-74de-49d4-bcdd-2a071799a125")
-		(property "Reference" "J2"
-			(at 259.08 39.3699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x04"
-			(at 259.08 41.9099 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "1984633:PHOENIX_1984633"
-			(at 256.54 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 256.54 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 256.54 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1715747/260633"
-			(at 256.54 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" " $2.06500"
-			(at 256.54 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "6eff0daf-77ef-43ae-be25-8cbd396bc783")
-		)
-		(pin "3"
-			(uuid "587ebf6c-9357-4de0-9280-57ad323da526")
-		)
-		(pin "4"
-			(uuid "7a51e237-8482-4427-975d-642cf53f2b15")
-		)
-		(pin "1"
-			(uuid "77ef1dfb-66e8-45bd-9f9d-50348c015c0a")
-		)
-		(instances
-			(project ""
-				(path "/073f53a3-faa8-4419-bff2-f325850469a4/b243e184-8694-4e24-9f49-14da58e669df"
-					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -6332,6 +6286,94 @@
 			(project ""
 				(path "/073f53a3-faa8-4419-bff2-f325850469a4/b243e184-8694-4e24-9f49-14da58e669df"
 					(reference "#PWR095")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 256.54 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c69c5b8b-01d0-476f-8caf-ce40339d38e8")
+		(property "Reference" "J17"
+			(at 259.08 40.6399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x02"
+			(at 259.08 43.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "1984617:PHOENIX_1984617"
+			(at 256.54 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 256.54 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 256.54 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PURCHASE-URL" "https://www.digikey.com/en/products/detail/phoenix-contact/1729128/260615?msockid=2519f0312b83673a161fe62a2a5a66c9"
+			(at 256.54 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Price" " $1.33000"
+			(at 256.54 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "78b12b56-3e13-4fa6-81d7-669bf2591db8")
+		)
+		(pin "1"
+			(uuid "96bcb9f9-2fe6-462d-8b97-a4a4f7d96081")
+		)
+		(instances
+			(project "Aurora"
+				(path "/073f53a3-faa8-4419-bff2-f325850469a4/b243e184-8694-4e24-9f49-14da58e669df"
+					(reference "J17")
 					(unit 1)
 				)
 			)
