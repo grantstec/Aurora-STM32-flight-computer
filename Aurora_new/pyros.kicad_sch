@@ -4658,7 +4658,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1984633:PHOENIX_1984633"
+		(property "Footprint" "1725672:PHOENIX_1725672"
 			(at 256.54 53.34 0)
 			(effects
 				(font
@@ -4695,6 +4695,15 @@
 			)
 		)
 		(property "Price" " $2.06500"
+			(at 256.54 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" ""
 			(at 256.54 53.34 0)
 			(effects
 				(font
@@ -4752,7 +4761,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1984633:PHOENIX_1984633"
+		(property "Footprint" "1725672:PHOENIX_1725672"
 			(at 176.53 148.59 0)
 			(effects
 				(font
@@ -4789,6 +4798,15 @@
 			)
 		)
 		(property "Price" " $2.06500"
+			(at 176.53 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" ""
 			(at 176.53 148.59 0)
 			(effects
 				(font
@@ -4846,7 +4864,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1984675:PHOENIX_1984675"
+		(property "Footprint" "1725711:PHOENIX_1725711"
 			(at 63.5 60.96 0)
 			(effects
 				(font
@@ -4883,6 +4901,15 @@
 			)
 		)
 		(property "Price" " $4.07700"
+			(at 63.5 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" ""
 			(at 63.5 60.96 0)
 			(effects
 				(font
@@ -5084,7 +5111,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1984617:PHOENIX_1984617"
+		(property "Footprint" "1725656:PHOENIX_1725656"
 			(at 256.54 35.56 0)
 			(effects
 				(font
@@ -5121,6 +5148,15 @@
 			)
 		)
 		(property "Price" " $1.33000"
+			(at 256.54 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" ""
 			(at 256.54 35.56 0)
 			(effects
 				(font
@@ -5238,7 +5274,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1984675:PHOENIX_1984675"
+		(property "Footprint" "1725711:PHOENIX_1725711"
 			(at 63.5 179.07 0)
 			(effects
 				(font
@@ -5275,6 +5311,15 @@
 			)
 		)
 		(property "Price" " $4.07700"
+			(at 63.5 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" ""
 			(at 63.5 179.07 0)
 			(effects
 				(font
@@ -5344,7 +5389,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1984617:PHOENIX_1984617"
+		(property "Footprint" "1725656:PHOENIX_1725656"
 			(at 186.69 54.61 0)
 			(effects
 				(font
@@ -5381,6 +5426,15 @@
 			)
 		)
 		(property "Price" " $1.33000"
+			(at 186.69 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" ""
 			(at 186.69 54.61 0)
 			(effects
 				(font
@@ -5432,7 +5486,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1984633:PHOENIX_1984633"
+		(property "Footprint" "1725672:PHOENIX_1725672"
 			(at 186.69 76.2 0)
 			(effects
 				(font
@@ -5469,6 +5523,15 @@
 			)
 		)
 		(property "Price" " $2.06500"
+			(at 186.69 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" ""
 			(at 186.69 76.2 0)
 			(effects
 				(font
@@ -5592,6 +5655,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_Part_Number" ""
+			(at 346.71 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5ba4a7f2-55c2-46b4-a122-46144ae8b8ff")
 		)
@@ -5641,7 +5713,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1984675:PHOENIX_1984675"
+		(property "Footprint" "1725711:PHOENIX_1725711"
 			(at 63.5 115.57 0)
 			(effects
 				(font
@@ -5678,6 +5750,15 @@
 			)
 		)
 		(property "Price" " $4.07700"
+			(at 63.5 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" ""
 			(at 63.5 115.57 0)
 			(effects
 				(font
@@ -5747,7 +5828,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1984617:PHOENIX_1984617"
+		(property "Footprint" "1725656:PHOENIX_1725656"
 			(at 186.69 36.83 0)
 			(effects
 				(font
@@ -5784,6 +5865,15 @@
 			)
 		)
 		(property "Price" " $1.33000"
+			(at 186.69 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" ""
 			(at 186.69 36.83 0)
 			(effects
 				(font
@@ -5834,7 +5924,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1984675:PHOENIX_1984675"
+		(property "Footprint" "1725711:PHOENIX_1725711"
 			(at 63.5 151.13 0)
 			(effects
 				(font
@@ -5871,6 +5961,15 @@
 			)
 		)
 		(property "Price" " $4.07700"
+			(at 63.5 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" ""
 			(at 63.5 151.13 0)
 			(effects
 				(font
@@ -6016,6 +6115,15 @@
 				(hide yes)
 			)
 		)
+		(property "DigiKey_Part_Number" ""
+			(at 350.52 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "86e66e00-6c7a-4620-9f4d-3b72b6ad16c3")
 		)
@@ -6071,7 +6179,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1984617:PHOENIX_1984617"
+		(property "Footprint" "1725656:PHOENIX_1725656"
 			(at 256.54 92.71 0)
 			(effects
 				(font
@@ -6108,6 +6216,15 @@
 			)
 		)
 		(property "Price" " $1.33000"
+			(at 256.54 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" ""
 			(at 256.54 92.71 0)
 			(effects
 				(font
@@ -6159,7 +6276,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1984633:PHOENIX_1984633"
+		(property "Footprint" "1725672:PHOENIX_1725672"
 			(at 186.69 90.17 0)
 			(effects
 				(font
@@ -6196,6 +6313,15 @@
 			)
 		)
 		(property "Price" " $2.06500"
+			(at 186.69 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" ""
 			(at 186.69 90.17 0)
 			(effects
 				(font
@@ -6319,7 +6445,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1984617:PHOENIX_1984617"
+		(property "Footprint" "1725656:PHOENIX_1725656"
 			(at 256.54 40.64 0)
 			(effects
 				(font
@@ -6356,6 +6482,15 @@
 			)
 		)
 		(property "Price" " $1.33000"
+			(at 256.54 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" ""
 			(at 256.54 40.64 0)
 			(effects
 				(font
@@ -6407,7 +6542,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1984633:PHOENIX_1984633"
+		(property "Footprint" "1725672:PHOENIX_1725672"
 			(at 176.53 132.08 0)
 			(effects
 				(font
@@ -6444,6 +6579,15 @@
 			)
 		)
 		(property "Price" " $2.06500"
+			(at 176.53 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" ""
 			(at 176.53 132.08 0)
 			(effects
 				(font
@@ -6501,7 +6645,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1984675:PHOENIX_1984675"
+		(property "Footprint" "1725711:PHOENIX_1725711"
 			(at 63.5 86.36 0)
 			(effects
 				(font
@@ -6538,6 +6682,15 @@
 			)
 		)
 		(property "Price" " $4.07700"
+			(at 63.5 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" ""
 			(at 63.5 86.36 0)
 			(effects
 				(font
@@ -6607,7 +6760,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1984675:PHOENIX_1984675"
+		(property "Footprint" "1725711:PHOENIX_1725711"
 			(at 63.5 35.56 0)
 			(effects
 				(font
@@ -6644,6 +6797,15 @@
 			)
 		)
 		(property "Price" " $4.07700"
+			(at 63.5 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" ""
 			(at 63.5 35.56 0)
 			(effects
 				(font
@@ -6713,7 +6875,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1984617:PHOENIX_1984617"
+		(property "Footprint" "1725656:PHOENIX_1725656"
 			(at 256.54 83.82 0)
 			(effects
 				(font
@@ -6750,6 +6912,15 @@
 			)
 		)
 		(property "Price" " $1.33000"
+			(at 256.54 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" ""
 			(at 256.54 83.82 0)
 			(effects
 				(font
@@ -6801,7 +6972,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1984617:PHOENIX_1984617"
+		(property "Footprint" "1725656:PHOENIX_1725656"
 			(at 186.69 45.72 0)
 			(effects
 				(font
@@ -6838,6 +7009,15 @@
 			)
 		)
 		(property "Price" " $1.33000"
+			(at 186.69 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" ""
 			(at 186.69 45.72 0)
 			(effects
 				(font
@@ -6889,7 +7069,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "1984633:PHOENIX_1984633"
+		(property "Footprint" "1725672:PHOENIX_1725672"
 			(at 218.44 139.7 0)
 			(effects
 				(font
@@ -6926,6 +7106,15 @@
 			)
 		)
 		(property "Price" " $2.06500"
+			(at 218.44 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DigiKey_Part_Number" ""
 			(at 218.44 139.7 0)
 			(effects
 				(font
